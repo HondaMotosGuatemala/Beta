@@ -20,40 +20,14 @@ post_date: 2018-03-08 15:46:25
 [/ux_banner]
 
 [/ux_slider]
-[row label="RowModelos" style="collapse" col_bg="rgb(0, 0, 0)" width="full-width" h_align="center"]
+[section bg_color="rgb(2, 2, 2)" dark="true"]
 
-[col span__sm="12" divider="0" align="center" bg_color="rgb(15, 15, 15)"]
+[row]
 
-[ux_product_categories style="normal" columns="5" columns__sm="2" orderby="name" show_count="0" image_overlay="rgba(0, 0, 0, 0)" image_hover="zoom-long" text_size="small" text_hover="bounce" text_bg="rgb(0, 0, 0)" text_color="dark"]
+[col span__sm="12"]
 
+[ux_product_categories style="overlay" slider_nav_style="simple" slider_nav_position="outside" show_count="0" image_overlay="rgba(0, 0, 0, 0.19)" image_hover="overlay-remove-50" image_hover_alt="zoom" text_bg="rgba(0, 0, 0, 0.37)"]
 
-[/col]
-
-[/row]
-[section label="Facebook Desktop" visibility="hidden" bg="1207" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.59)" bg_pos="42% 52%" padding="60px" height="300px"]
-
-[row h_align="center"]
-
-[col span__sm="6" align="center"]
-
-<div class="fb-page" data-href="https://www.facebook.com/motoshondaguatemala/" data-tabs="timeline,messages" data-width="500" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-<blockquote cite="https://www.facebook.com/motoshondaguatemala/" class="fb-xfbml-parse-ignore">
-<p><a href="https://www.facebook.com/motoshondaguatemala/">Motos Honda Guatemala</a></p>
-</blockquote>
-</div>
-
-[/col]
-
-[/row]
-
-[/section]
-[section label="Facebook Mobile" visibility="show-for-small" bg="320" bg_color="rgba(245, 245, 245, 0)" bg_overlay="rgba(64, 100, 143, 0.49)" bg_pos="35% 44%" padding="60px" height="300px"]
-
-[row h_align="center"]
-
-[col span="10" span__sm="10" align="center"]
-
-<p><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmotoshondaguatemala%2F&tabs=timeline%2Cmessages&width=280&height=350&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=156540828387081" width="280" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></p>
 
 [/col]
 
