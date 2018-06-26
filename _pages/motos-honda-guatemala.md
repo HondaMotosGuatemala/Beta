@@ -4,36 +4,15 @@ post_title: Motos Honda Guatemala
 author: Bryan Paz
 post_excerpt: ""
 layout: page
-permalink: https://motos.honda.com.gt/v2/
+permalink: https://dev-motoshondagt.com/app/
 published: true
 post_date: 2018-03-08 15:46:25
 ---
 [ux_slider type="fade" nav_size="normal" bullet_style="dashes-spaced" timer="7000"]
 
-[ux_banner height="40%" height__sm="60%" bg="18784" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0)" bg_pos="45% 51%" hover="overlay-add-50"]
+[ux_banner height="40%" height__sm="60%" bg="21206" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0)" bg_pos="52% 100%" hover="overlay-add-50"]
 
-
-[/ux_banner]
-[ux_banner height="40%" height__sm="60%" bg="217" bg_color="rgb(2, 2, 2)" bg_overlay="rgba(147, 56, 56, 0.06)" bg_pos="65% 68%" hover="color" hover_alt="grayscale"]
-
-[text_box width="16" width__sm="28" scale="85" position_x="80" position_x__sm="85" position_y="50" position_y__sm="65" text_align="right"]
-
-[button text="CONÓCELA" size="small" expand="0" icon="icon-shopping-cart" icon_pos="left" icon_reveal="true" link="https://motos.honda.com.gt/v2/moto/sport/cb-190r/"]
-
-
-[/text_box]
-[ux_image id="19871" width="32" width__sm="50" image_hover="zoom" animate="fadeInLeft" position_x="90" position_x__sm="100" position_y="30" position_y__sm="30"]
-
-
-[/ux_banner]
-[ux_banner height="40%" height__sm="60%" bg="1235" bg_size="original" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.2)" bg_pos="50% 48%" parallax="10"]
-
-[text_box width="40" width__sm="56" scale__sm="77" padding="30px 30px 30px 30px" padding__sm="3px 30px 13px 37px" animate="flipInY" parallax="3" position_x="50" position_x__sm="50" position_y="50" position_y__sm="5" bg="rgba(0, 0, 0, 0.6)" depth="3"]
-
-<h2 class="uppercase"><strong>Blog Hondero</strong></h2>
-<h3>Lee nuestros</h3>
-<p>Consejos, noticias y más</p>
-[button text="Ya disponible" radius="71" expand="0" icon="icon-menu" icon_reveal="true" link="/blog/"]
+[text_box width__sm="60" position_x="50" position_y="50"]
 
 
 [/text_box]
@@ -45,7 +24,7 @@ post_date: 2018-03-08 15:46:25
 
 [col span__sm="12" divider="0" align="center" bg_color="rgb(15, 15, 15)" animate="bounceInUp"]
 
-[ux_product_categories style="normal" col_spacing="collapse" columns="5" columns__sm="2" slider_nav_style="simple" slider_nav_color="light" auto_slide="7000" orderby="name" show_count="0" image_height="130px" image_overlay="rgba(0, 0, 0, 0)" image_hover="zoom-long" text_size="small" text_hover="bounce" text_bg="rgb(0, 0, 0)" text_color="dark"]
+[ux_product_categories style="normal" columns="3" columns__sm="2" orderby="name" show_count="0" image_overlay="rgba(0, 0, 0, 0)" image_hover="zoom-long" text_size="small" text_hover="bounce" text_bg="rgb(0, 0, 0)" text_color="dark"]
 
 
 [/col]
@@ -81,7 +60,7 @@ post_date: 2018-03-08 15:46:25
 
 <h2><strong>Moto Escuela</strong></p>
 <h3>Es importante que sepas los principios tu motocicleta</h2>
-[button text="+información" color="white" style="outline" size="larger" link="https://motos.honda.com.gt/v2/escuela"]
+[button text="+información" color="white" style="outline" size="larger" link="https://dev-motoshondagt.com/app/escuela"]
 
 
 [/text_box]
@@ -97,7 +76,7 @@ post_date: 2018-03-08 15:46:25
 
 <h2><strong>Plan Protección</strong></h2>
 <h3>La mejor protección para tu Honda.</h3>
-[button text="ir a plan protección" color="white" style="outline" size="larger" link="https://motos.honda.com.gt/v2/plan-de-proteccion/"]
+[button text="ir a plan protección" color="white" style="outline" size="larger" link="https://dev-motoshondagt.com/app/plan-de-proteccion/"]
 
 
 [/text_box]
