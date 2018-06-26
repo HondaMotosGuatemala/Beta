@@ -22,9 +22,9 @@ post_date: 2018-03-08 15:46:25
 [/ux_slider]
 [row label="RowModelos" style="collapse" col_bg="rgb(0, 0, 0)" width="full-width" h_align="center"]
 
-[col span__sm="12" divider="0" align="center" bg_color="rgb(15, 15, 15)" animate="bounceInUp"]
+[col span__sm="12" divider="0" align="center" bg_color="rgb(15, 15, 15)"]
 
-[ux_product_categories style="normal" columns__sm="2" orderby="name" show_count="0" image_overlay="rgba(0, 0, 0, 0)" image_hover="zoom-long" text_size="small" text_hover="bounce" text_bg="rgb(0, 0, 0)" text_color="dark"]
+[ux_product_categories style="normal" columns="5" columns__sm="2" orderby="name" show_count="0" image_overlay="rgba(0, 0, 0, 0)" image_hover="zoom-long" text_size="small" text_hover="bounce" text_bg="rgb(0, 0, 0)" text_color="dark"]
 
 
 [/col]
