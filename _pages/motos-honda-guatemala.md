@@ -26,7 +26,7 @@ post_date: 2018-03-08 15:46:25
 
 [col span__sm="12"]
 
-[ux_product_categories style="overlay" slider_nav_style="simple" slider_nav_position="outside" show_count="0" image_overlay="rgba(0, 0, 0, 0.19)" image_hover="overlay-remove-50" image_hover_alt="zoom" text_bg="rgba(0, 0, 0, 0.37)"]
+[ux_product_categories style="overlay" slider_nav_style="simple" slider_nav_position="outside" show_count="0" image_height="201px" image_size="large" image_overlay="rgba(0, 0, 0, 0.19)" image_hover="overlay-remove-50" image_hover_alt="zoom" text_bg="rgba(0, 0, 0, 0.37)"]
 
 
 [/col]
