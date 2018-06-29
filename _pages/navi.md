@@ -91,7 +91,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 
 [/row]
-[section bg="21187" bg_color="rgb(89, 89, 89)" bg_overlay="rgb(65, 153, 176)" dark="true" padding="0px" loading="true"]
+[section bg="21187" bg_color="rgb(89, 89, 89)" bg_overlay="rgb(65, 153, 176)" bg_overlay__sm="rgba(65, 153, 176, 0.96)" dark="true" padding="0px" loading="true"]
 
 [row style="collapse" col_bg="rgba(0, 0, 0, 0.33)" width="full-width" h_align="center"]
 
