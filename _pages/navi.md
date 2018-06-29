@@ -9,13 +9,21 @@ permalink: >
 published: true
 post_date: 2018-06-14 10:38:18
 ---
-[ux_banner height="500px" bg="21186" bg_size="original" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="confetti"]
+[row style="collapse"]
+
+[col span__sm="12" animate="bounceInUp"]
+
+[ux_banner height="500px" bg="21186" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.13)" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="sparkle"]
 
 
 [/ux_banner]
+
+[/col]
+
+[/row]
 [row style="collapse" width="full-width"]
 
-[col span="6" span__sm="12"]
+[col span="6" span__sm="12" animate="fadeInLeft"]
 
 [ux_banner height="500px" bg="21188" bg_pos="60% 59%" parallax="5"]
 
@@ -23,7 +31,7 @@ post_date: 2018-06-14 10:38:18
 [/ux_banner]
 
 [/col]
-[col span="6" span__sm="12"]
+[col span="6" span__sm="12" animate="fadeInRight"]
 
 [ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.92)" parallax="5"]
 
@@ -41,7 +49,7 @@ post_date: 2018-06-14 10:38:18
 [/row]
 [row style="collapse" width="full-width"]
 
-[col span="6" span__sm="12"]
+[col span="6" span__sm="12" animate="bounceInLeft"]
 
 [ux_banner height="500px" bg="21187" bg_color="rgba(228, 228, 228, 0)" bg_overlay="rgba(222, 222, 222, 0.92)" bg_pos="38% 60%"]
 
@@ -55,7 +63,7 @@ post_date: 2018-06-14 10:38:18
 [/ux_banner]
 
 [/col]
-[col span="6" span__sm="12"]
+[col span="6" span__sm="12" animate="bounceInRight"]
 
 [ux_banner height="500px" bg="21184" parallax="5"]
 
@@ -67,7 +75,7 @@ post_date: 2018-06-14 10:38:18
 [/row]
 [row style="collapse" width="full-width"]
 
-[col span="6" span__sm="12"]
+[col span="6" span__sm="12" animate="flipInX"]
 
 [ux_banner height="500px" bg="21204" bg_overlay="rgba(48, 154, 134, 0.29)" bg_pos="95% 78%" parallax="5"]
 
@@ -75,7 +83,7 @@ post_date: 2018-06-14 10:38:18
 [/ux_banner]
 
 [/col]
-[col span="6" span__sm="12"]
+[col span="6" span__sm="12" animate="flipInX"]
 
 [ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.92)" parallax="5"]
 
