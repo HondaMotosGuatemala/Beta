@@ -69,7 +69,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner height="500px" bg="21204" bg_overlay="rgba(48, 154, 134, 0.29)" bg_pos="95% 78%" parallax="5"]
+[ux_banner height="500px" bg="21204" bg_overlay="rgba(48, 154, 134, 0.29)" bg_pos="95% 78%" parallax="5" sticky="true"]
 
 
 [/ux_banner]
