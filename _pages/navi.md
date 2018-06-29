@@ -41,7 +41,7 @@ post_date: 2018-06-14 10:38:18
 [/row]
 [row style="collapse" width="full-width"]
 
-[col span="6" span__sm="12" animate="fadeInLeft" parallax="1" depth_hover="5"]
+[col span="6" span__sm="12" animate="fadeInLeft"]
 
 [ux_banner height="500px" bg="21187" bg_color="rgba(228, 228, 228, 0)" bg_overlay="rgba(222, 222, 222, 0.92)" bg_pos="38% 60%"]
 
