@@ -102,5 +102,52 @@ post_date: 2018-06-14 10:38:18
 [/col]
 
 [/row]
+[row h_align="center"]
+
+[col span="3" span__sm="6"]
+
+[featured_box img="21218" img_width="92" pos="center" tooltip="Motor de la navi" icon_color="rgb(255, 240, 240)"]
+
+<h3>Tipo de Motor</h3>
+<p>Mono-cilíndrico, 4 tiempos, 2 válvulas, refrigerado por Aire
+</p>
+
+[/featured_box]
+
+[/col]
+[col span="3" span__sm="6" align="center"]
+
+[featured_box img="21217" img_width="92" pos="center"]
+
+<center><h3>Tipo de Transmisión</h3>
+<p>Automática con potencia de 7,92 Hp @ 7.000 rpm.</p>
+</center>
+
+[/featured_box]
+
+[/col]
+[col span="3" span__sm="6"]
+
+[featured_box img="21219" img_width="90" pos="center"]
+
+<center><h3>Tipo de frenos</h3>
+<p>Delantero y Trasero, tambor de 130mm</p>
+
+[/featured_box]
+
+[/col]
+[col span="3" span__sm="6"]
+
+[featured_box img="21220" img_width="90" pos="center"]
+
+<center><h3>Colores Disponibles</h3>
+<p>Tenemos los colores: Negro, Blanco, Verde y Rojo</p>
+<center>
+
+[/featured_box]
+
+[/col]
+
+[/row]
 
 [/section]
