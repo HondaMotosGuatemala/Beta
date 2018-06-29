@@ -19,7 +19,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner bg="21188" bg_size="original" bg_pos="51% 54%" parallax="5" sticky="true"]
+[ux_banner height="500px" bg="21188" bg_size="original" bg_pos="51% 54%" parallax="5"]
 
 
 [/ux_banner]
@@ -27,7 +27,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="6" span__sm="12" animate="fadeInRight"]
 
-[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.92)" parallax="5" sticky="true"]
+[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.92)" parallax="5"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
@@ -45,7 +45,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner height="500px" bg="21187" bg_color="rgba(228, 228, 228, 0)" bg_overlay="rgba(222, 222, 222, 0.92)" bg_pos="38% 60%" sticky="true"]
+[ux_banner height="500px" bg="21187" bg_size="original" bg_color="rgba(228, 228, 228, 0)" bg_overlay="rgba(222, 222, 222, 0.92)" bg_pos="38% 60%"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
@@ -59,7 +59,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="6" span__sm="12" animate="fadeInRight"]
 
-[ux_banner bg="21184" parallax="5" sticky="true"]
+[ux_banner height="500px" bg="21184" bg_size="original" parallax="5"]
 
 
 [/ux_banner]
@@ -71,7 +71,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner bg="21204" bg_overlay="rgba(48, 154, 134, 0.29)" bg_pos="95% 78%" parallax="5" sticky="true"]
+[ux_banner height="500px" bg="21204" bg_overlay="rgba(48, 154, 134, 0.37)" bg_pos="95% 78%" parallax="5"]
 
 
 [/ux_banner]
@@ -79,7 +79,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="6" span__sm="12" animate="fadeInRight"]
 
-[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.94)" parallax="5" sticky="true"]
+[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.94)" parallax="5"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
@@ -93,11 +93,11 @@ post_date: 2018-06-14 10:38:18
 [/col]
 
 [/row]
-[section bg="21187" bg_color="rgb(89, 89, 89)" bg_overlay="rgb(65, 153, 176)" dark="true" sticky="true" padding="0px" loading="true"]
+[section bg="21187" bg_color="rgb(89, 89, 89)" bg_overlay="rgb(65, 153, 176)" dark="true" padding="0px" scroll_for_more="true" loading="true"]
 
 [row style="collapse" col_bg="rgba(0, 0, 0, 0.33)" width="full-width" h_align="center"]
 
-[col span__sm="12" padding="17px 0px 4px 0px" margin="-116px 0px 0px 0px" align="center" bg_color="rgb(10, 123, 152)" text_depth="5" animate="fadeInUp"]
+[col span__sm="12" padding="15px 0px 4px 0px" margin="41px 0px 0px 0px" align="center" bg_color="rgb(10, 123, 152)" text_depth="5" animate="fadeInUp"]
 
 <h1 style="font-size:190%;">ESPECIFICACIÓNES</h1>
 
