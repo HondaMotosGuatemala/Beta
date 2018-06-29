@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-06-14 10:38:18
 ---
-[ux_banner height="500px" bg="21186" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.13)" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="sparkle"]
+[ux_banner height="500px" bg="21186" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.13)" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="sparkle" sticky="true"]
 
 
 [/ux_banner]
