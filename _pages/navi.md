@@ -91,21 +91,13 @@ post_date: 2018-06-14 10:38:18
 [/col]
 
 [/row]
-[section bg="21187" bg_color="rgb(255, 124, 0)" bg_overlay="rgba(255, 124, 0, 0.9)" effect="sparkle" dark="true" sticky="true"]
+[section bg="21187" bg_color="rgb(89, 89, 89)" bg_overlay="rgb(65, 153, 176)" dark="true" padding="0px" loading="true"]
 
 [row col_bg="rgba(0, 0, 0, 0.33)" width="full-width" h_align="center"]
 
-[col span__sm="12" padding="11px 0px 1px 0px" margin="28px 0px 0px 0px" align="center" bg_color="rgb(152, 74, 10)" text_depth="5" animate="fadeInUp" parallax="-6" depth_hover="1"]
+[col span__sm="12" padding="11px 0px 1px 0px" margin="28px 0px 0px 0px" align="center" bg_color="rgb(10, 123, 152)" text_depth="5" animate="fadeInUp" parallax="-6" depth_hover="1"]
 
-<h2>¡SOLICITA + INFORMACIÓN!</h2>
-
-[/col]
-[col span="6" span__sm="12"]
-
-
-[/col]
-[col span="6" span__sm="12"]
-
+<h1 style="font-size:190%;">ESPECIFICACIÓNES</h1>
 
 [/col]
 
