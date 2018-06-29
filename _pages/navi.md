@@ -95,7 +95,7 @@ post_date: 2018-06-14 10:38:18
 
 [row col_bg="rgba(0, 0, 0, 0.33)" width="full-width" h_align="center"]
 
-[col span__sm="12" padding="11px 0px 1px 0px" margin="0px 0px 0px 0px" align="center" bg_color="rgb(152, 74, 10)" text_depth="4" parallax="-5" depth_hover="1"]
+[col span__sm="12" padding="11px 0px 1px 0px" margin="28px 0px 0px 0px" align="center" bg_color="rgb(152, 74, 10)" text_depth="4" parallax="-5" depth_hover="1"]
 
 <h2>P  E  R  S  O  N  A  L  Í  Z  A  L  A  </h2>
 
