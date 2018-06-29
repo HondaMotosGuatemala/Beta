@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-06-14 10:38:18
 ---
-[ux_banner height="500px" bg="21186" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.13)" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="sparkle" sticky="true"]
+[ux_banner bg="21186" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.13)" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="sparkle" sticky="true"]
 
 
 [/ux_banner]
@@ -17,7 +17,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner height="500px" bg="21188" bg_pos="60% 59%" parallax="5" sticky="true"]
+[ux_banner bg="21188" bg_pos="60% 59%" parallax="5" sticky="true"]
 
 
 [/ux_banner]
@@ -57,7 +57,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="6" span__sm="12" animate="fadeInRight"]
 
-[ux_banner height="500px" bg="21184" parallax="5" sticky="true"]
+[ux_banner bg="21184" parallax="5" sticky="true"]
 
 
 [/ux_banner]
@@ -69,7 +69,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner height="500px" bg="21204" bg_overlay="rgba(48, 154, 134, 0.29)" bg_pos="95% 78%" parallax="5" sticky="true"]
+[ux_banner bg="21204" bg_overlay="rgba(48, 154, 134, 0.29)" bg_pos="95% 78%" parallax="5" sticky="true"]
 
 
 [/ux_banner]
@@ -95,7 +95,7 @@ post_date: 2018-06-14 10:38:18
 
 [row style="collapse" col_bg="rgba(0, 0, 0, 0.33)" width="full-width" h_align="center"]
 
-[col span__sm="12" padding="16px 0px 4px 0px" align="center" bg_color="rgb(10, 123, 152)" text_depth="5" animate="fadeInUp"]
+[col span__sm="12" padding="17px 0px 4px 0px" margin="-116px 0px 0px 0px" align="center" bg_color="rgb(10, 123, 152)" text_depth="5" animate="fadeInUp"]
 
 <h1 style="font-size:190%;">ESPECIFICACIÓNES</h1>
 
