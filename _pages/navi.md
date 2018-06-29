@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2018-06-14 10:38:18
 ---
+[scroll_to title="NAVEGA"]
+
 [ux_banner bg="21186" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.13)" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="sparkle" sticky="true"]
 
 
@@ -17,7 +19,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner bg="21188" bg_pos="60% 59%" parallax="5" sticky="true"]
+[ux_banner bg="21188" bg_size="original" bg_pos="51% 54%" parallax="5" sticky="true"]
 
 
 [/ux_banner]
@@ -29,7 +31,7 @@ post_date: 2018-06-14 10:38:18
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
-<h1 style="color:#735799; font-size:590%;">DIVERTIDA</h1>
+<h1 style="color:#735799; font-size:490%;">DIVERTIDA</h1>
 <h3 style="color:black;">La Navi es diferente del resto, no es motoneta y tampoco es Sport. Es para la gente con espíritu joven. </h3>
 
 [/text_box]
@@ -47,7 +49,7 @@ post_date: 2018-06-14 10:38:18
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
-<h1 style="color:#2A99A9; font-size:690%;">COOL</h1>
+<h1 style="color:#2A99A9; font-size:490%;">COOL</h1>
 <h3 style="color:black;">El cocepto de la navi es ser cool y divertida, recomendada para los jóvenes de hoy. </h3>
 
 [/text_box]
