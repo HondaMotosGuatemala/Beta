@@ -117,7 +117,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="3" span__sm="6" align="center"]
 
-[featured_box img="21217" img_width="92" pos="center"]
+[featured_box img="21217" img_width="92" pos="center" tooltip="Parece mecánica ¿no?"]
 
 <center><h3>Tipo de Transmisión</h3>
 <p>Automática con potencia de 7,92 Hp @ 7.000 rpm.</p>
@@ -128,7 +128,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="3" span__sm="6"]
 
-[featured_box img="21219" img_width="90" pos="center"]
+[featured_box img="21219" img_width="90" pos="center" tooltip="Buenos frenos!"]
 
 <center><h3>Tipo de frenos</h3>
 <p>Delantero y Trasero, tambor de 130mm</p>
@@ -138,7 +138,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="3" span__sm="6"]
 
-[featured_box img="21220" img_width="90" pos="center"]
+[featured_box img="21220" img_width="90" pos="center" tooltip="¿Cuál te gusta?"]
 
 <center><h3>Colores Disponibles</h3>
 <p>Tenemos los colores: Negro, Blanco, Verde y Rojo</p>
