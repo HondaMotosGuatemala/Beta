@@ -91,7 +91,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 
 [/row]
-[section bg="21187" bg_color="rgb(89, 89, 89)" bg_overlay="rgb(65, 153, 176)" dark="true" padding="0px" scroll_for_more="true" loading="true"]
+[section bg="21187" bg_color="rgb(89, 89, 89)" bg_overlay="rgb(65, 153, 176)" dark="true" padding="0px" loading="true"]
 
 [row style="collapse" col_bg="rgba(0, 0, 0, 0.33)" width="full-width" h_align="center"]
 
@@ -104,7 +104,7 @@ post_date: 2018-06-14 10:38:18
 [/row]
 [row h_align="center" padding__sm="26px 0px 0px 0px"]
 
-[col span="3" span__sm="6"]
+[col span="3" span__sm="7"]
 
 [featured_box img="21218" img_width="92" pos="center" tooltip="Motor de la navi" icon_color="rgb(255, 240, 240)"]
 
@@ -114,7 +114,7 @@ post_date: 2018-06-14 10:38:18
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="6" align="center"]
+[col span="3" span__sm="8" align="center"]
 
 [featured_box img="21217" img_width="92" pos="center" tooltip="Parece mecánica ¿no?"]
 
@@ -126,7 +126,7 @@ post_date: 2018-06-14 10:38:18
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="6"]
+[col span="3" span__sm="8"]
 
 [featured_box img="21219" img_width="90" pos="center" tooltip="Buenos frenos!"]
 
