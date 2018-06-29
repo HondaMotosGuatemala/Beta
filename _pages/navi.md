@@ -104,7 +104,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 
 [/row]
-[row h_align="center"]
+[row h_align="center" padding__sm="26px 0px 0px 0px"]
 
 [col span="3" span__sm="6"]
 
