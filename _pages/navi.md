@@ -9,13 +9,11 @@ permalink: >
 published: true
 post_date: 2018-06-14 10:38:18
 ---
-[scroll_to title="NAVEGA"]
-
-[ux_banner bg="21186" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.13)" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="sparkle" sticky="true"]
+[ux_banner label="Principal" height="56.25%" bg="21186" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.13)" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="sparkle" sticky="true"]
 
 
 [/ux_banner]
-[row style="collapse" width="full-width"]
+[row label="01" style="collapse" width="full-width"]
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
@@ -41,9 +39,17 @@ post_date: 2018-06-14 10:38:18
 [/col]
 
 [/row]
-[row style="collapse" width="full-width" depth_hover="1"]
+[row label="02" style="collapse" width="full-width" depth_hover="1"]
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
+
+[ux_banner height="500px" bg="21184" bg_size="original" parallax="5"]
+
+
+[/ux_banner]
+
+[/col]
+[col span="6" span__sm="12" force_first="small" animate="fadeInRight"]
 
 [ux_banner height="500px" bg="21187" bg_size="original" bg_color="rgba(228, 228, 228, 0)" bg_overlay="rgba(222, 222, 222, 0.92)" bg_pos="38% 60%"]
 
@@ -57,17 +63,9 @@ post_date: 2018-06-14 10:38:18
 [/ux_banner]
 
 [/col]
-[col span="6" span__sm="12" animate="fadeInRight"]
-
-[ux_banner height="500px" bg="21184" bg_size="original" parallax="5"]
-
-
-[/ux_banner]
-
-[/col]
 
 [/row]
-[row style="collapse" width="full-width"]
+[row label="03" style="collapse" width="full-width"]
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
