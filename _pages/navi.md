@@ -77,7 +77,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="6" span__sm="12" animate="fadeInRight"]
 
-[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.92)" parallax="5"]
+[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.94)" parallax="5"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
@@ -91,13 +91,13 @@ post_date: 2018-06-14 10:38:18
 [/col]
 
 [/row]
-[section bg_color="rgb(255, 124, 0)" dark="true"]
+[section bg="21187" bg_color="rgb(255, 124, 0)" bg_overlay="rgba(255, 124, 0, 0.9)" effect="sparkle" dark="true" sticky="true"]
 
 [row col_bg="rgba(0, 0, 0, 0.33)" width="full-width" h_align="center"]
 
 [col span__sm="12" padding="11px 0px 1px 0px" margin="28px 0px 0px 0px" align="center" bg_color="rgb(152, 74, 10)" text_depth="5" animate="fadeInUp" parallax="-6" depth_hover="1"]
 
-<h2>P  E  R  S  O  N  A  L  Í  Z  A  L  A  </h2>
+<h2>¡SOLICITA + INFORMACIÓN!</h2>
 
 [/col]
 [col span="6" span__sm="12"]
