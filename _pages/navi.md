@@ -17,7 +17,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner height="500px" bg="21188" bg_pos="60% 59%" parallax="5"]
+[ux_banner height="500px" bg="21188" bg_pos="60% 59%" parallax="5" sticky="true"]
 
 
 [/ux_banner]
@@ -25,7 +25,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="6" span__sm="12" animate="fadeInRight"]
 
-[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.92)" parallax="5"]
+[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.92)" parallax="5" sticky="true"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
@@ -43,7 +43,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner height="500px" bg="21187" bg_color="rgba(228, 228, 228, 0)" bg_overlay="rgba(222, 222, 222, 0.92)" bg_pos="38% 60%"]
+[ux_banner height="500px" bg="21187" bg_color="rgba(228, 228, 228, 0)" bg_overlay="rgba(222, 222, 222, 0.92)" bg_pos="38% 60%" sticky="true"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
@@ -57,7 +57,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="6" span__sm="12" animate="fadeInRight"]
 
-[ux_banner height="500px" bg="21184" parallax="5"]
+[ux_banner height="500px" bg="21184" parallax="5" sticky="true"]
 
 
 [/ux_banner]
@@ -77,7 +77,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 [col span="6" span__sm="12" animate="fadeInRight"]
 
-[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.94)" parallax="5"]
+[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.94)" parallax="5" sticky="true"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
