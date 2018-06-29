@@ -19,14 +19,6 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner height="500px" bg="21188" bg_size="original" bg_pos="51% 54%" parallax="5"]
-
-
-[/ux_banner]
-
-[/col]
-[col span="6" span__sm="12" animate="fadeInRight"]
-
 [ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.92)" parallax="5"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
@@ -35,6 +27,14 @@ post_date: 2018-06-14 10:38:18
 <h3 style="color:black;">La Navi es diferente del resto, no es motoneta y tampoco es Sport. Es para la gente con espíritu joven. </h3>
 
 [/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="6" span__sm="12" animate="fadeInRight"]
+
+[ux_banner height="500px" bg="21188" bg_size="original" bg_pos="51% 54%" parallax="5"]
+
 
 [/ux_banner]
 
@@ -71,14 +71,6 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner height="500px" bg="21204" bg_overlay="rgba(48, 154, 134, 0.37)" bg_pos="95% 78%" parallax="5"]
-
-
-[/ux_banner]
-
-[/col]
-[col span="6" span__sm="12" animate="fadeInRight"]
-
 [ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.94)" parallax="5"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
@@ -91,13 +83,21 @@ post_date: 2018-06-14 10:38:18
 [/ux_banner]
 
 [/col]
+[col span="6" span__sm="12" animate="fadeInRight"]
+
+[ux_banner height="500px" bg="21204" bg_overlay="rgba(48, 154, 134, 0.37)" bg_pos="95% 78%" parallax="5"]
+
+
+[/ux_banner]
+
+[/col]
 
 [/row]
 [section bg="21187" bg_color="rgb(89, 89, 89)" bg_overlay="rgb(65, 153, 176)" dark="true" padding="0px" scroll_for_more="true" loading="true"]
 
 [row style="collapse" col_bg="rgba(0, 0, 0, 0.33)" width="full-width" h_align="center"]
 
-[col span__sm="12" padding="15px 0px 4px 0px" margin="41px 0px 0px 0px" align="center" bg_color="rgb(10, 123, 152)" text_depth="5" animate="fadeInUp"]
+[col span__sm="12" padding="11px 0px 0px 0px" align="center" bg_color="rgb(10, 123, 152)" text_depth="5" animate="fadeInUp"]
 
 <h1 style="font-size:190%;">ESPECIFICACIÓNES</h1>
 
@@ -111,8 +111,7 @@ post_date: 2018-06-14 10:38:18
 [featured_box img="21218" img_width="92" pos="center" tooltip="Motor de la navi" icon_color="rgb(255, 240, 240)"]
 
 <h3>Tipo de Motor</h3>
-<p>Mono-cilíndrico, 4 tiempos, 2 válvulas, refrigerado por Aire
-</p>
+<p>Mono-cilíndrico, 4 tiempos, 2 válvulas, refrigerado por Aire</p>
 
 [/featured_box]
 
@@ -121,9 +120,10 @@ post_date: 2018-06-14 10:38:18
 
 [featured_box img="21217" img_width="92" pos="center" tooltip="Parece mecánica ¿no?"]
 
-<center><h3>Tipo de Transmisión</h3>
+<p><center></p>
+<h3>Tipo de Transmisión</h3>
 <p>Automática con potencia de 7,92 Hp @ 7.000 rpm.</p>
-</center>
+<p></center></p>
 
 [/featured_box]
 
@@ -132,7 +132,8 @@ post_date: 2018-06-14 10:38:18
 
 [featured_box img="21219" img_width="90" pos="center" tooltip="Buenos frenos!"]
 
-<center><h3>Tipo de frenos</h3>
+<p><center></p>
+<h3>Tipo de frenos</h3>
 <p>Delantero y Trasero, tambor de 130mm</p>
 
 [/featured_box]
@@ -142,9 +143,10 @@ post_date: 2018-06-14 10:38:18
 
 [featured_box img="21220" img_width="90" pos="center" tooltip="¿Cuál te gusta?"]
 
-<center><h3>Colores Disponibles</h3>
+<p><center></p>
+<h3>Colores Disponibles</h3>
 <p>Tenemos los colores: Negro, Blanco, Verde y Rojo</p>
-<center>
+<p><center></p>
 
 [/featured_box]
 
