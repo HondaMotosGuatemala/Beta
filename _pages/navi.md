@@ -117,7 +117,7 @@ post_date: 2018-06-14 10:38:18
 
 [row style="collapse" col_style="dashed" width="full-width" v_align="equal" h_align="center" padding="25px 0px 35px 0px" padding__sm="26px 0px 0px 0px" depth_hover="1"]
 
-[col span="3" span__sm="12" align="center" bg_color="rgba(72, 54, 203, 0.98)"]
+[col span="3" span__sm="12" align="center" bg_color="rgba(47, 159, 79, 0.98)"]
 
 [featured_box img="21218" img_width="92" pos="center" title="TIPO DE MOTOR" tooltip="Motor de la navi" icon_color="rgb(255, 240, 240)"]
 
