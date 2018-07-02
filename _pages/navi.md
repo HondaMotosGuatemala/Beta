@@ -15,7 +15,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span__sm="12" align="center"]
 
-[ux_image id="21249" width="35" width__sm="95"]
+[ux_image id="21249" width="35" width__sm="95" image_hover="zoom" parallax="-2" animate="fadeInDown"]
 
 <p>Haz click en el botón de abajo para continuar...</p>
 
