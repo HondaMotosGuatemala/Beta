@@ -157,7 +157,7 @@ post_date: 2018-06-14 10:38:18
 [/row]
 [row h_align="center" padding="59px 0px 0px 0px"]
 
-[col span="8" span__sm="12" visibility="hide-for-small" align="center"]
+[col span="8" span__sm="12" align="center"]
 
 [ux_banner height="400px" bg="21242" bg_size="original" bg_color="rgba(0, 0, 0, 0.3)" bg_overlay="rgba(0, 0, 0, 0.12)" bg_pos="43% 49%" parallax="1" youtube="eDfA_mQn8_M"]
 
