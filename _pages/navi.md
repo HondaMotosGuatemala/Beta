@@ -11,7 +11,7 @@ post_date: 2018-06-14 10:38:18
 ---
 [scroll_to title="Navi"]
 
-[section bg="21255" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" effect="sparkle" dark="true" sticky="true" padding="196px" scroll_for_more="true" loading="true"]
+[section bg="21255" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" parallax="1" effect="sparkle" dark="true" sticky="true" padding="196px"]
 
 [row]
 
@@ -158,7 +158,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span="8" span__sm="12" align="center"]
 
-[ux_banner height="400px" bg="21242" bg_color="rgba(0, 0, 0, 0.3)" bg_overlay="rgba(0, 0, 0, 0.42)" bg_pos="53% 58%" parallax="1" youtube="eDfA_mQn8_M"]
+[ux_banner height="400px" bg="21242" bg_color="rgba(0, 0, 0, 0.3)" bg_overlay="rgba(0, 0, 0, 0.42)" bg_pos="53% 58%" parallax="1" youtube="eDfA_mQn8_M" sticky="true"]
 
 [text_box position_x="50" position_y="50"]
 
