@@ -159,14 +159,8 @@ post_date: 2018-06-14 10:38:18
 
 [col span="8" span__sm="12" align="center"]
 
-[ux_banner height="400px" bg="21242" bg_color="rgba(0, 0, 0, 0.3)" bg_overlay="rgba(0, 0, 0, 0.42)" bg_pos="53% 58%" parallax="1" youtube="eDfA_mQn8_M" sticky="true"]
+[ux_banner height="400px" bg="21242" bg_color="rgba(0, 0, 0, 0.3)" bg_overlay="rgba(0, 0, 0, 0.12)" bg_pos="53% 58%" parallax="1" youtube="eDfA_mQn8_M" sticky="true"]
 
-[text_box position_x="50" position_y="50"]
-
-[video_button video="https://www.youtube.com/watch?v=eDfA_mQn8_M" size="140"]
-
-
-[/text_box]
 
 [/ux_banner]
 
