@@ -37,7 +37,7 @@ post_date: 2018-06-14 10:38:18
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
 <h1 style="color:#735799; font-size:490%;">DIVERTIDA</h1>
-<h3 style="color:black;">La Navi es diferente del resto, no es motoneta y tampoco es Sport. Es para la gente con espíritu joven. </h3>
+<h3 style="color:black;">La NAVI es diferente del resto, no es motoneta y tampoco es Sport. Es para la gente con espíritu joven. </h3>
 
 [/text_box]
 
@@ -73,7 +73,7 @@ post_date: 2018-06-14 10:38:18
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
 <h1 style="color:#2A99A9; font-size:490%;">COOL</h1>
-<h3 style="color:black;">El cocepto de la navi es ser cool y divertida, recomendada para los jóvenes de hoy. </h3>
+<h3 style="color:black;">El cocepto de la NAVI es ser cool y divertida, recomendada para los jóvenes de hoy. </h3>
 
 [/text_box]
 
@@ -116,7 +116,7 @@ post_date: 2018-06-14 10:38:18
 
 [row width="full-width" v_align="equal" h_align="center" padding="16px 0px 0px 0px" padding__sm="26px 0px 0px 0px"]
 
-[col span="3" span__sm="7" margin="0px -15px 0px -15px" align="center" bg_color="rgba(72, 54, 203, 0.98)"]
+[col span="3" span__sm="7" padding="30px 0px 40px 0px" margin="0px -15px 0px -15px" align="center" bg_color="rgba(72, 54, 203, 0.98)"]
 
 [featured_box img="21218" img_width="92" pos="center" title="TIPO DE MOTOR" tooltip="Motor de la navi" icon_color="rgb(255, 240, 240)"]
 
@@ -125,7 +125,7 @@ post_date: 2018-06-14 10:38:18
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="8" margin="0px -13px 0px -16px" align="center" bg_color="rgb(215, 111, 25)"]
+[col span="3" span__sm="8" padding="30px 0px 40px 0px" margin="0px -13px 0px -16px" align="center" bg_color="rgb(215, 111, 25)"]
 
 [featured_box img="21217" img_width="92" pos="center" title="TIPO DE TRANSMISIÓN" tooltip="Parece mecánica ¿no?"]
 
@@ -147,7 +147,7 @@ post_date: 2018-06-14 10:38:18
 
 [featured_box img="21220" img_width="90" pos="center" title="COLORES DISPONIBLES" tooltip="¿Cuál te gusta?"]
 
-<h5 class="lead">Escoge el color de tu navi, ya sea Negro, Blanco, Verde o Rojo, todos los colores se ven genial.</h5>
+<h5 class="lead">Escoge el color de tu navi, ya sea negro, blanco, verde ó rojo..</h5>
 
 [/featured_box]
 
