@@ -15,9 +15,9 @@ post_date: 2018-06-14 10:38:18
 
 [col span__sm="12" align="center"]
 
-[ux_image id="21249" width="35" width__sm="95" image_hover="zoom" parallax="-2" animate="fadeInDown"]
+[ux_image id="21249" width="50" width__sm="95" image_hover="zoom" parallax="-2" animate="fadeInDown"]
 
-<h3><b>COOL Y DIVERTIDA</b></h3>
+<h3><b>SCROLL PARA CONTINUAR</b></h3>
 
 [/col]
 
