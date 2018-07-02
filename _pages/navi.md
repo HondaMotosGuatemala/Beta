@@ -117,7 +117,7 @@ post_date: 2018-06-14 10:38:18
 
 [row width="full-width" v_align="equal" h_align="center" padding="16px 0px 0px 0px" padding__sm="26px 0px 0px 0px"]
 
-[col span="3" span__sm="7" padding="30px 0px 40px 0px" margin="0px -15px 0px -15px" align="center" bg_color="rgba(72, 54, 203, 0.98)"]
+[col span="3" span__sm="12" padding="30px 0px 40px 0px" margin="0px -15px 0px -15px" align="center" bg_color="rgba(72, 54, 203, 0.98)"]
 
 [featured_box img="21218" img_width="92" pos="center" title="TIPO DE MOTOR" tooltip="Motor de la navi" icon_color="rgb(255, 240, 240)"]
 
@@ -126,7 +126,7 @@ post_date: 2018-06-14 10:38:18
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="8" padding="30px 0px 40px 0px" margin="0px -13px 0px -16px" align="center" bg_color="rgb(215, 111, 25)"]
+[col span="3" span__sm="12" padding="29px 0px 29px 0px" margin="-32px -13px 0px -16px" align="center" bg_color="rgb(215, 111, 25)"]
 
 [featured_box img="21217" img_width="92" pos="center" title="TIPO DE TRANSMISIÓN" tooltip="Parece mecánica ¿no?"]
 
@@ -135,7 +135,7 @@ post_date: 2018-06-14 10:38:18
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="8" margin="0px -15px 0px -17px" bg_color="rgb(178, 30, 30)"]
+[col span="3" span__sm="12" padding="28px 0px 28px 0px" margin="-30px -16px -1px -17px" bg_color="rgb(178, 30, 30)"]
 
 [featured_box img="21219" img_width="90" pos="center" title="TIPO DE FRENOS" tooltip="Buenos frenos!"]
 
@@ -144,7 +144,7 @@ post_date: 2018-06-14 10:38:18
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="6" margin="0px -13px 0px -17px" align="center" bg_color="rgb(34, 153, 184)"]
+[col span="3" span__sm="12" padding="27px 0px 30px 0px" margin="-30px -13px -28px -17px" align="center" bg_color="rgb(34, 88, 184)"]
 
 [featured_box img="21220" img_width="90" pos="center" title="COLORES DISPONIBLES" tooltip="¿Cuál te gusta?"]
 
@@ -157,20 +157,12 @@ post_date: 2018-06-14 10:38:18
 [/row]
 [row h_align="center"]
 
-[col span="8" span__sm="12" align="center"]
+[col span="8" span__sm="12" visibility="hide-for-small" align="center"]
 
 [ux_banner height="400px" bg="21242" bg_color="rgba(0, 0, 0, 0.3)" bg_overlay="rgba(0, 0, 0, 0.12)" bg_pos="53% 58%" parallax="1" youtube="eDfA_mQn8_M" sticky="true"]
 
 
 [/ux_banner]
-
-[/col]
-[col span__sm="12" align="center"]
-
-[button text="COTIZAR" color="white" radius="40" icon="icon-expand"]
-
-[button text="TEST DRIVE" color="white" radius="40" expand="0" icon="icon-play"]
-
 
 [/col]
 
