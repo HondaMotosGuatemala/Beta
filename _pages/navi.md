@@ -15,13 +15,13 @@ post_date: 2018-06-14 10:38:18
 
 [ux_image id="21249" width="47" width__sm="80"]
 
-[button text="Continuar" color="white" style="underline" size="small" animate="fadeInUp" expand="0" icon="icon-angle-down" icon_reveal="true" link="#01"]
+[button text="Continuar" color="white" style="underline" size="small" animate="fadeInUp" expand="0" icon="icon-angle-down" icon_reveal="true" link="#continuarbtn"]
 
 
 [/text_box]
 
 [/ux_banner]
-[row label="01" style="collapse" width="full-width"]
+[row label="01" style="collapse" width="full-width" class="continuarbtn"]
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
