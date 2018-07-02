@@ -153,7 +153,7 @@ post_date: 2018-06-14 10:38:18
 [/row]
 [row h_align="center"]
 
-[col span__sm="12" align="center"]
+[col span="8" span__sm="12" align="center"]
 
 [ux_banner height="400px" bg="21242" bg_color="rgba(0, 0, 0, 0.3)" bg_overlay="rgba(0, 0, 0, 0.56)" bg_pos="53% 58%" parallax="1" youtube="eDfA_mQn8_M"]
 
