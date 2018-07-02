@@ -11,8 +11,14 @@ post_date: 2018-06-14 10:38:18
 ---
 [ux_banner label="Principal" height="56.25%" bg="21248" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.62)" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="sparkle" sticky="true"]
 
-[ux_image id="21249" width="47" width__sm="80" position_x="50" position_y="50"]
+[text_box width="82" scale="148" parallax="3" position_x="50" position_y="50"]
 
+[ux_image id="21249" width="47" width__sm="80"]
+
+[button text="Continuar" color="white" style="underline" size="small" animate="fadeInUp" expand="0" icon="icon-angle-down" icon_reveal="true" link="#01"]
+
+
+[/text_box]
 
 [/ux_banner]
 [row label="01" style="collapse" width="full-width"]
