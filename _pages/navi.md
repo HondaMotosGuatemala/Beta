@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2018-06-14 10:38:18
 ---
+[scroll_to title="Navi"]
+
 [section bg="21255" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" effect="sparkle" dark="true" sticky="true" padding="196px" scroll_for_more="true" loading="true"]
 
 [row]
@@ -27,6 +29,8 @@ post_date: 2018-06-14 10:38:18
 [row label="01" style="collapse" width="full-width" class="continuarbtn"]
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
+
+[scroll_to title="Divertida"]
 
 [ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.92)" parallax="5"]
 
@@ -54,6 +58,8 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
+[scroll_to title="Cool"]
+
 [ux_banner height="500px" bg="21184" bg_size="original" parallax="5"]
 
 
@@ -80,6 +86,8 @@ post_date: 2018-06-14 10:38:18
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
+[scroll_to title="Chilera"]
+
 [ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.94)" parallax="5"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
@@ -102,20 +110,13 @@ post_date: 2018-06-14 10:38:18
 [/col]
 
 [/row]
-[section bg="21245" bg_size="original" bg_color="rgba(0, 0, 0, 0.32)" bg_overlay="rgba(46, 206, 137, 0.85)" bg_overlay__sm="rgba(65, 153, 176, 0.96)" bg_pos="58% 54%" dark="true" padding="0px" loading="true"]
+[section bg="21245" bg_size="original" bg_color="rgba(0, 0, 0, 0.32)" bg_overlay="rgba(0, 0, 0, 0.92)" bg_overlay__sm="rgba(65, 153, 176, 0.96)" bg_pos="58% 54%" dark="true" padding="0px" loading="true"]
 
-[row style="collapse" col_bg="rgba(0, 0, 0, 0.33)" width="full-width" h_align="center"]
+[scroll_to title="Especificaciones"]
 
-[col span__sm="12" padding="11px 0px 0px 0px" align="center" bg_color="rgba(0, 0, 0, 0.38)" text_depth="5" animate="fadeInUp"]
-
-<h1 style="font-size:190%;">ESPECIFICACIÓNES</h1>
-
-[/col]
-
-[/row]
 [row width="full-width" v_align="equal" h_align="center" padding="16px 0px 0px 0px" padding__sm="26px 0px 0px 0px"]
 
-[col span="3" span__sm="7"]
+[col span="3" span__sm="7" margin="0px -15px 0px -15px" bg_color="rgba(72, 54, 203, 0.98)"]
 
 [featured_box img="21218" img_width="92" pos="center" tooltip="Motor de la navi" icon_color="rgb(255, 240, 240)"]
 
@@ -125,7 +126,7 @@ post_date: 2018-06-14 10:38:18
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="8" align="center"]
+[col span="3" span__sm="8" margin="0px -13px 0px -16px" align="center" bg_color="rgb(215, 111, 25)"]
 
 [featured_box img="21217" img_width="92" pos="center" tooltip="Parece mecánica ¿no?"]
 
@@ -137,7 +138,7 @@ post_date: 2018-06-14 10:38:18
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="8"]
+[col span="3" span__sm="8" margin="0px -15px 0px -17px" bg_color="rgb(178, 30, 30)"]
 
 [featured_box img="21219" img_width="90" pos="center" tooltip="Buenos frenos!"]
 
@@ -148,7 +149,7 @@ post_date: 2018-06-14 10:38:18
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="6"]
+[col span="3" span__sm="6" margin="0px -1px 0px -14px" bg_color="rgb(34, 153, 184)"]
 
 [featured_box img="21220" img_width="90" pos="center" tooltip="¿Cuál te gusta?"]
 
@@ -178,15 +179,11 @@ post_date: 2018-06-14 10:38:18
 [/ux_banner]
 
 [/col]
-[col span="6" span__sm="12" align="center"]
+[col span__sm="12" align="center"]
 
-[button text="Solicitar cotización" color="white" radius="40" icon="icon-expand"]
+[button text="COTIZAR" color="white" radius="40" icon="icon-expand"]
 
-
-[/col]
-[col span="6" span__sm="12" align="center"]
-
-[button text="Solicitar test drive" color="white" radius="40" expand="0" icon="icon-play"]
+[button text="TEST DRIVE" color="white" radius="40" expand="0" icon="icon-play"]
 
 
 [/col]
