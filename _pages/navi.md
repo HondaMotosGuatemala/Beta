@@ -116,47 +116,38 @@ post_date: 2018-06-14 10:38:18
 
 [row width="full-width" v_align="equal" h_align="center" padding="16px 0px 0px 0px" padding__sm="26px 0px 0px 0px"]
 
-[col span="3" span__sm="7" margin="0px -15px 0px -15px" bg_color="rgba(72, 54, 203, 0.98)"]
+[col span="3" span__sm="7" margin="0px -15px 0px -15px" align="center" bg_color="rgba(72, 54, 203, 0.98)"]
 
-[featured_box img="21218" img_width="92" pos="center" tooltip="Motor de la navi" icon_color="rgb(255, 240, 240)"]
+[featured_box img="21218" img_width="92" pos="center" title="TIPO DE MOTOR" tooltip="Motor de la navi" icon_color="rgb(255, 240, 240)"]
 
-<h3>Tipo de Motor</h3>
-<p>Mono-cilíndrico, 4 tiempos, 2 válvulas, refrigerado por Aire</p>
+<h5>Mono-cilíndrico, 4 tiempos, 2 válvulas, refrigerado por Aire</h5>
 
 [/featured_box]
 
 [/col]
 [col span="3" span__sm="8" margin="0px -13px 0px -16px" align="center" bg_color="rgb(215, 111, 25)"]
 
-[featured_box img="21217" img_width="92" pos="center" tooltip="Parece mecánica ¿no?"]
+[featured_box img="21217" img_width="92" pos="center" title="TIPO DE TRANSMISIÓN" tooltip="Parece mecánica ¿no?"]
 
-<p><center></p>
-<h3>Tipo de Transmisión</h3>
-<p>Automática con potencia de 7,92 Hp @ 7.000 rpm.</p>
-<p></center></p>
+<h5>Automática con potencia de 7,92 Hp @ 7.000 rpm.</h5>
 
 [/featured_box]
 
 [/col]
 [col span="3" span__sm="8" margin="0px -15px 0px -17px" bg_color="rgb(178, 30, 30)"]
 
-[featured_box img="21219" img_width="90" pos="center" tooltip="Buenos frenos!"]
+[featured_box img="21219" img_width="90" pos="center" title="TIPO DE FRENOS" tooltip="Buenos frenos!"]
 
-<p><center></p>
-<h3>Tipo de frenos</h3>
-<p>Delantero y Trasero, tambor de 130mm</p>
+<h5>Delantero y Trasero, tambor de 130mm</h5>
 
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="6" margin="0px -13px 0px -17px" bg_color="rgb(34, 153, 184)"]
+[col span="3" span__sm="6" margin="0px -13px 0px -17px" align="center" bg_color="rgb(34, 153, 184)"]
 
-[featured_box img="21220" img_width="90" pos="center" tooltip="¿Cuál te gusta?"]
+[featured_box img="21220" img_width="90" pos="center" title="COLORES DISPONIBLES" tooltip="¿Cuál te gusta?"]
 
-<p><center></p>
-<h3>Colores Disponibles</h3>
-<p>Tenemos los colores: Negro, Blanco, Verde y Rojo</p>
-<p><center></p>
+<h5 class="lead">Escoge el color de tu navi, ya sea Negro, Blanco, Verde o Rojo, todos los colores se ven genial.</h5>
 
 [/featured_box]
 
