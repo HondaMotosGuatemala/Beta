@@ -9,18 +9,21 @@ permalink: >
 published: true
 post_date: 2018-06-14 10:38:18
 ---
-[ux_banner label="Principal" height="56.25%" bg="21248" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.62)" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="sparkle" sticky="true"]
+[section bg="21248" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.42)" bg_pos="51% 48%" effect="sparkle" dark="true" sticky="true" padding="196px" scroll_for_more="true" loading="true"]
 
-[text_box width="82" scale="148" parallax="3" position_x="50" position_y="50"]
+[row]
 
-[ux_image id="21249" width="47" width__sm="80"]
+[col span__sm="12" align="center"]
 
-[button text="Continuar" color="white" style="underline" size="small" animate="fadeInUp" expand="0" icon="icon-angle-down" icon_reveal="true" link="#continuarbtn"]
+[ux_image id="21249" width="35" width__sm="95"]
 
+<p>Haz click en el botón de abajo para continuar...</p>
 
-[/text_box]
+[/col]
 
-[/ux_banner]
+[/row]
+
+[/section]
 [row label="01" style="collapse" width="full-width" class="continuarbtn"]
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
