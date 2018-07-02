@@ -1,6 +1,6 @@
 ---
 ID: 21157
-post_title: Navi
+post_title: NAVI
 author: Bryan Paz
 post_excerpt: ""
 layout: page
