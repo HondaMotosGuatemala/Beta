@@ -155,7 +155,7 @@ post_date: 2018-06-14 10:38:18
 [/col]
 
 [/row]
-[row h_align="center" padding="59px 0px 0px 0px"]
+[row width="full-width" v_align="equal" h_align="center" padding="59px 0px 0px 0px"]
 
 [col span="8" span__sm="12" align="center"]
 
