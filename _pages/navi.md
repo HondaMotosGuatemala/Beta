@@ -149,7 +149,7 @@ post_date: 2018-06-14 10:38:18
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="6" margin="0px -1px 0px -14px" bg_color="rgb(34, 153, 184)"]
+[col span="3" span__sm="6" margin="0px -13px 0px -17px" bg_color="rgb(34, 153, 184)"]
 
 [featured_box img="21220" img_width="90" pos="center" tooltip="¿Cuál te gusta?"]
 
