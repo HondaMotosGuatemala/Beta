@@ -167,6 +167,18 @@ post_date: 2018-06-14 10:38:18
 [/ux_banner]
 
 [/col]
+[col span="6" span__sm="12" align="center"]
+
+[button text="Solicitar cotización" color="white" radius="40" icon="icon-expand"]
+
+
+[/col]
+[col span="6" span__sm="12" align="center"]
+
+[button text="Solicitar test drive" color="white" radius="40" expand="0" icon="icon-play"]
+
+
+[/col]
 
 [/row]
 
