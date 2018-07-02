@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-06-14 10:38:18
 ---
-[section bg="21248" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.42)" bg_pos="51% 48%" effect="sparkle" dark="true" sticky="true" padding="196px" scroll_for_more="true" loading="true"]
+[section bg="21248" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" effect="sparkle" dark="true" sticky="true" padding="196px" scroll_for_more="true" loading="true"]
 
 [row]
 
