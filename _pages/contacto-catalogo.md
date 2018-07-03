@@ -30,7 +30,7 @@ post_date: 2018-07-03 14:35:42
 <h1 class="uppercase"><span style="font-size: 100%;"><strong>Contacto </strong></span></h1>
 [gap height="10px"]
 
-[contact-form-7 id="449"]
+[contact-form-7 id="21281"]
 
 
 [/text_box]
