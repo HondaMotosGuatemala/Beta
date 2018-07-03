@@ -34,7 +34,7 @@ post_date: 2018-07-03 14:35:42
 
 
 [/text_box]
-[text_box text_color="dark" position_x="50" position_y="100"]
+[text_box text_color="dark" width__sm="100" scale__sm="22" margin__sm="71px 0px 56px 0px" padding__sm="0px 0px 0px 0px" position_x="50" position_y="100"]
 
 <p>Los datos que envíes son procesador con seguridad.</p>
 
