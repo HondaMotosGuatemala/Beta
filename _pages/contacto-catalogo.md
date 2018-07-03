@@ -30,13 +30,13 @@ post_date: 2018-07-03 14:35:42
 <h1 class="uppercase"><span style="font-size: 100%;"><strong>Contacto </strong></span></h1>
 [gap height="10px"]
 
-[contact-form-7 id="542"]
+[contact-form-7 id="449"]
 
 
 [/text_box]
 [text_box text_color="dark" position_x="50" position_y="100"]
 
-<p>Lorem ipsum dolor sit amet, consectetuer.</p>
+<p>Los datos que envíes son procesador con seguridad.</p>
 
 [/text_box]
 
