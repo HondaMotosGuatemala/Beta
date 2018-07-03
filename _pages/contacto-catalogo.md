@@ -11,7 +11,7 @@ post_date: 2018-07-03 14:35:42
 ---
 [row style="collapse" width="full-width"]
 
-[col span="4"]
+[col span="4" visibility="hide-for-small"]
 
 [ux_banner height="560px" bg="1253" bg_overlay="rgba(0, 0, 0, 0.43)" bg_pos="36% 85%"]
 
@@ -19,7 +19,7 @@ post_date: 2018-07-03 14:35:42
 [/ux_banner]
 
 [/col]
-[col span="4"]
+[col span="4" span__sm="12"]
 
 [ux_banner height="560px" bg_color="rgb(255,255,255)"]
 
@@ -43,7 +43,7 @@ post_date: 2018-07-03 14:35:42
 [/ux_banner]
 
 [/col]
-[col span="4"]
+[col span="4" visibility="hide-for-small"]
 
 [ux_banner height="560px" bg="1256" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.44)" bg_pos="63% 85%"]
 
