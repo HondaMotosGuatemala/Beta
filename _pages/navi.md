@@ -17,10 +17,11 @@ post_date: 2018-06-14 10:38:18
 
 [col span__sm="12" align="center"]
 
-[ux_image id="21249" width="50" width__sm="95" image_hover="zoom" parallax="-2" animate="fadeInDown" link="#divertida"]
+[ux_image id="21249" width="50" width__sm="74" image_hover="zoom" parallax="-2" animate="fadeInDown" link="#divertida"]
 
-<a href="#divertida"><h3><b>CLICK PARA CONTINUAR</b></h3>
-</a>
+<p><a href="#divertida"></p>
+<h3><b>CLICK PARA CONTINUAR</b></h3>
+<p></a></p>
 
 [/col]
 
