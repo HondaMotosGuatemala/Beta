@@ -11,13 +11,13 @@ post_date: 2018-07-05 10:04:25
 ---
 [scroll_to title="Navi"]
 
-[section bg="21255" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" parallax="1" effect="sparkle" dark="true" sticky="true" padding="196px"]
+[section bg="21290" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" parallax="1" effect="sparkle" dark="true" sticky="true" padding="196px"]
 
 [row]
 
 [col span__sm="12" align="center"]
 
-[ux_image id="21249" width="50" width__sm="74" image_hover="zoom" parallax="-2" animate="fadeInDown" link="#divertida"]
+[ux_image id="21292" width="62" width__sm="74" image_hover="zoom" parallax="-2" animate="fadeInDown" link="#divertida"]
 
 <p><a href="#divertida"></p>
 <h3><b>CLICK PARA CONTINUAR</b></h3>
