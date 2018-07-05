@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2018-07-05 10:04:25
 ---
-[scroll_to title="Navi"]
-
 [section bg="21290" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" parallax="1" effect="sparkle" dark="true" sticky="true" padding="196px"]
 
 [row]
@@ -31,8 +29,6 @@ post_date: 2018-07-05 10:04:25
 [row label="01" style="collapse" width="full-width" class="continuarbtn"]
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
-
-[scroll_to title="Divertida"]
 
 [ux_banner height="300px" bg_color="rgb(228, 228, 228)" bg_overlay="rgb(203, 218, 233)"]
 
@@ -60,8 +56,6 @@ post_date: 2018-07-05 10:04:25
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[scroll_to title="Cool"]
-
 [ux_banner height="300px" bg="21301" bg_size="original" bg_pos="51% 39%" parallax="5"]
 
 
@@ -87,8 +81,6 @@ post_date: 2018-07-05 10:04:25
 [row label="03" style="collapse" width="full-width"]
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
-
-[scroll_to title="Chilera"]
 
 [ux_banner height="300px" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(255, 213, 213, 0.94)"]
 
@@ -116,8 +108,6 @@ post_date: 2018-07-05 10:04:25
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[scroll_to title="Cool"]
-
 [ux_banner height="300px" bg="21294" bg_size="original" bg_pos="51% 39%" parallax="5"]
 
 
@@ -141,8 +131,6 @@ post_date: 2018-07-05 10:04:25
 
 [/row]
 [section bg="21290" bg_size="original" bg_color="rgba(0, 0, 0, 0.32)" bg_overlay="rgba(80, 80, 80, 0.9)" bg_overlay__sm="rgba(65, 153, 176, 0.96)" bg_pos="48% 56%" dark="true" padding="0px" loading="true"]
-
-[scroll_to title="Especificaciones"]
 
 [row style="collapse" col_style="dashed" width="full-width" v_align="equal" h_align="center" padding="25px 0px 35px 0px" padding__sm="26px 0px 0px 0px" depth_hover="1"]
 
