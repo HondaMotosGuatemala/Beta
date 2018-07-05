@@ -34,7 +34,7 @@ post_date: 2018-07-05 10:04:25
 
 [scroll_to title="Divertida"]
 
-[ux_banner height="300px" bg_color="rgb(228, 228, 228)" bg_overlay="rgb(203, 218, 233)" parallax="5"]
+[ux_banner height="300px" bg_color="rgb(228, 228, 228)" bg_overlay="rgb(203, 218, 233)"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
@@ -70,7 +70,7 @@ post_date: 2018-07-05 10:04:25
 [/col]
 [col span="6" span__sm="12" force_first="small" animate="fadeInRight"]
 
-[ux_banner height="300px" bg_size="original" bg_color="rgba(228, 228, 228, 0)" bg_overlay="rgba(222, 222, 222, 0.92)" bg_pos="38% 60%"]
+[ux_banner height="300px" bg_color="rgba(228, 228, 228, 0)" bg_overlay="rgba(222, 222, 222, 0.92)"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
@@ -90,7 +90,7 @@ post_date: 2018-07-05 10:04:25
 
 [scroll_to title="Chilera"]
 
-[ux_banner height="300px" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(255, 213, 213, 0.94)" parallax="5"]
+[ux_banner height="300px" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(255, 213, 213, 0.94)"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
@@ -188,11 +188,11 @@ post_date: 2018-07-05 10:04:25
 
 [col span="8" span__sm="12" align="center"]
 
-[ux_banner height="400px" bg="21242" bg_size="original" bg_color="rgba(0, 0, 0, 0.3)" bg_overlay="rgba(0, 0, 0, 0.52)" bg_pos="43% 49%" parallax="1"]
+[ux_banner height="400px" bg="21300" bg_size="original" bg_color="rgba(0, 0, 0, 0.3)" bg_overlay="rgba(0, 0, 0, 0.52)" bg_pos="43% 49%" parallax="1"]
 
 [text_box position_x="50" position_y="50"]
 
-[video_button video="https://www.youtube.com/watch?v=eDfA_mQn8_M"]
+[video_button video="https://www.youtube.com/watch?v=ga9m0VTGABU"]
 
 
 [/text_box]
