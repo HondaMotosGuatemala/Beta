@@ -23,7 +23,7 @@ post_date: 2018-07-03 14:35:42
 
 [ux_banner height="674px" bg_color="rgb(255,255,255)"]
 
-[text_box text_color="dark" width="92" scale="162" position_x="50" position_y="50"]
+[text_box text_color="dark" width="92" scale="162" scale__sm="100" position_x="50" position_y="50"]
 
 [gap height="10px"]
 
