@@ -112,7 +112,7 @@ post_date: 2018-07-05 10:04:25
 [/col]
 
 [/row]
-[section bg="21245" bg_size="original" bg_color="rgba(0, 0, 0, 0.32)" bg_overlay="rgba(0, 0, 0, 0.92)" bg_overlay__sm="rgba(65, 153, 176, 0.96)" bg_pos="58% 54%" dark="true" padding="0px" loading="true"]
+[section bg_size="original" bg_color="rgba(0, 0, 0, 0.32)" bg_overlay="rgb(69, 43, 131)" bg_overlay__sm="rgba(65, 153, 176, 0.96)" bg_pos="58% 54%" dark="true" padding="0px" loading="true"]
 
 [scroll_to title="Especificaciones"]
 
