@@ -5,7 +5,7 @@ author: Bryan Paz
 post_excerpt: ""
 layout: page
 permalink: >
-  https://motos.honda.com.gt/v2/shine-sp-125/
+  https://motos.honda.com.gt/v2/modelos/shine-sp-125/
 published: true
 post_date: 2018-07-05 10:04:25
 ---
