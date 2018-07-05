@@ -23,11 +23,11 @@ post_date: 2018-07-03 14:35:42
 
 [ux_banner height="674px" bg_color="rgb(255,255,255)"]
 
-[text_box text_color="dark" width="77" scale="162" position_x="50" position_y="50"]
+[text_box text_color="dark" width="92" scale="162" position_x="50" position_y="50"]
 
 [gap height="10px"]
 
-<h1 class="uppercase"><span style="font-size: 100%;"><strong>Contacto </strong></span></h1>
+<h1 class="uppercase"><span style="font-size: 90%;"><strong>Contacto </strong></span></h1>
 [gap height="10px"]
 
 [contact-form-7 id="21281"]
