@@ -176,7 +176,6 @@ post_date: 2018-07-05 10:04:25
 
 [col span="9" span__sm="12" align="center"]
 
-[it360]
 
 
 [/col]
