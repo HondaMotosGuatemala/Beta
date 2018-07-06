@@ -176,16 +176,7 @@ post_date: 2018-07-05 10:04:25
 
 [col span="8" span__sm="12" align="center"]
 
-[ux_banner height="400px" bg="21300" bg_size="original" bg_color="rgba(0, 0, 0, 0.3)" bg_overlay="rgba(0, 0, 0, 0.52)" bg_pos="43% 49%" parallax="1"]
-
-[text_box position_x="50" position_y="50"]
-
-[video_button video="https://www.youtube.com/watch?v=ga9m0VTGABU"]
-
-
-[/text_box]
-
-[/ux_banner]
+[it360]
 
 [/col]
 
