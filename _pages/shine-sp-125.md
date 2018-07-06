@@ -15,9 +15,9 @@ post_date: 2018-07-05 10:04:25
 
 [col span__sm="12" align="center"]
 
-[ux_image id="21292" width="54" width__sm="74" image_hover="zoom" parallax="-2" animate="fadeInDown" link="#divertida"]
+[ux_image id="21292" width="54" width__sm="100" image_hover="zoom" parallax="-2" animate="fadeInDown" link="#seccion"]
 
-<p><a href="#divertida"></p>
+<p><a href="#tablero"></p>
 <h3><b>CLICK PARA CONTINUAR</b></h3>
 <p></a></p>
 
@@ -130,13 +130,13 @@ post_date: 2018-07-05 10:04:25
 [/col]
 
 [/row]
-[section bg="21290" bg_size="original" bg_color="rgba(0, 0, 0, 0.32)" bg_overlay="rgba(80, 80, 80, 0.9)" bg_overlay__sm="rgba(65, 153, 176, 0.96)" bg_pos="48% 56%" dark="true" padding="0px" loading="true"]
+[section bg="21290" bg_size="original" bg_color="rgba(0, 0, 0, 0.32)" bg_overlay="rgb(255, 255, 255)" bg_overlay__sm="rgba(65, 153, 176, 0.96)" bg_pos="48% 56%" dark="true" padding="0px" loading="true"]
 
 [row style="collapse" col_style="dashed" width="full-width" v_align="equal" h_align="center" padding="25px 0px 35px 0px" padding__sm="26px 0px 0px 0px" depth_hover="1"]
 
 [col span="3" span__sm="12" align="center" bg_color="rgba(50, 50, 50, 0.98)"]
 
-[featured_box img="21218" img_width="92" pos="center" title="TIPO DE MOTOR" tooltip="Motor de la navi" icon_color="rgb(255, 240, 240)"]
+[featured_box img="21218" img_width="92" pos="center" title="TIPO DE MOTOR" tooltip="Motor de la Shine" icon_color="rgb(255, 240, 240)"]
 
 <h5>Mono-cilíndrico, 4 tiempos, 2 válvulas, refrigerado por Aire</h5>
 
@@ -145,16 +145,16 @@ post_date: 2018-07-05 10:04:25
 [/col]
 [col span="3" span__sm="12" align="center" bg_color="rgba(52, 25, 25, 0.98)"]
 
-[featured_box img="21217" img_width="92" pos="center" title="TIPO DE TRANSMISIÓN" tooltip="Parece mecánica ¿no?"]
+[featured_box img="21217" img_width="92" pos="center" title="TIPO DE TRANSMISIÓN" tooltip="Mecánica"]
 
-<h5>Automática con potencia de 7,92 Hp @ 7.000 rpm.</h5>
+<h5>Mono-cilíndrico, 4 tiempos, 2 válvulas, refrigerado por Aire</h5>
 
 [/featured_box]
 
 [/col]
 [col span="3" span__sm="12" bg_color="rgba(50, 50, 50, 0.98)"]
 
-[featured_box img="21219" img_width="90" pos="center" title="TIPO DE FRENOS" tooltip="Buenos frenos!"]
+[featured_box img="21219" img_width="90" pos="center" title="TIPO DE FRENOS" tooltip="Buenos frenos"]
 
 <h5>Delantero y Trasero, tambor de 130mm</h5>
 
@@ -174,9 +174,9 @@ post_date: 2018-07-05 10:04:25
 [/row]
 [row width="full-width" v_align="equal" h_align="center" padding="59px 0px 0px 0px"]
 
-[col span="9" span__sm="12" align="center"]
+[col span="10" span__sm="12" align="center"]
 
-<p><iframe src="https://360player.io/p/xtYTat/" frameborder="0" width=560 height=315 allowfullscreen data-token="xtYTat"></iframe></p>
+<p><iframe src="https://360player.io/p/xtYTat/" frameborder="0" width=570 height=315 allowfullscreen data-token="xtYTat"></iframe></p>
 
 [/col]
 
