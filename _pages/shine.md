@@ -30,7 +30,7 @@ post_date: 2018-07-05 10:04:25
 
 [col span="6" span__sm="12" animate="fadeInLeft"]
 
-[ux_banner height="300px" bg_color="rgb(228, 228, 228)" bg_overlay="rgb(203, 218, 233)"]
+[ux_banner height="300px" bg_color="rgb(228, 228, 228)" bg_overlay="rgb(203, 218, 233)" class="tablero"]
 
 [text_box text_color="dark" width="70" position_x="50" position_y="50"]
 
