@@ -11,7 +11,7 @@ post_date: 2018-06-14 10:38:18
 ---
 [scroll_to title="Navi"]
 
-[section bg="21255" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" parallax="1" effect="sparkle" dark="true" sticky="true" padding="196px"]
+[section bg="21255" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" parallax="1" effect="sparkle" dark="true" padding="196px"]
 
 [row]
 
