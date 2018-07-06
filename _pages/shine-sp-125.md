@@ -175,9 +175,7 @@ post_date: 2018-07-05 10:04:25
 [row width="full-width" v_align="equal" h_align="center" padding="59px 0px 0px 0px"]
 
 [col span="9" span__sm="12" align="center"]
-
-
-
+<iframe src="https://360player.io/p/xtYTat/" frameborder="0" width=560 height=315 allowfullscreen data-token="xtYTat"></iframe>
 [/col]
 
 [/row]
