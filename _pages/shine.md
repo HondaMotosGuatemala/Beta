@@ -17,9 +17,6 @@ post_date: 2018-07-05 10:04:25
 
 [ux_image id="21292" width="54" width__sm="100" image_hover="zoom" parallax="-2" animate="fadeInDown" link="#seccion"]
 
-<p><a href="#tablero"></p>
-<h3><b>CLICK PARA CONTINUAR</b></h3>
-<p></a></p>
 
 [/col]
 
