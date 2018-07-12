@@ -4,8 +4,7 @@ post_title: Agencias y Talleres
 author: Bryan Paz
 post_excerpt: ""
 layout: page
-permalink: >
-  https://motos.honda.com.gt/v2/agencias-y-talleres/
+permalink: https://motos.honda.com.gt/v2/agencias/
 published: true
 post_date: 2018-03-23 11:53:23
 ---
