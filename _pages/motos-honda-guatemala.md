@@ -10,7 +10,7 @@ post_date: 2018-03-08 15:46:25
 ---
 [ux_slider type="fade" nav_size="normal" bullet_style="dashes-spaced" timer="7000"]
 
-[ux_banner height="40%" height__sm="60%" bg="21199" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0)" bg_pos="58% 96%" hover="overlay-add-50"]
+[ux_banner height="40%" height__sm="60%" bg="21361" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0)" bg_pos="39% 39%" hover="overlay-add-50"]
 
 
 [/ux_banner]
