@@ -1042,8 +1042,8 @@ post_date: 2018-03-23 11:53:23
 
 [featured_box img="21382" img_width="129" pos="center" font_size="large"]
 
-<h3>Honda cerca de ti.</h3>
-<p>Ubica tu agencia más cercana. Por favor activa la ubicación de tu dispositivo y permite que conozcamos dónde te encuentras...</p>
+<h3 style="color:#D3485B"><b>HONDA </b><span style="color:#464F57">CERCA DE TI</span></h3>
+<p style="color:#494949;">Ubica tu agencia más cercana. Por favor activa la ubicación de tu dispositivo y permite que conozcamos dónde te encuentras...</p>
 
 [/featured_box]
 
