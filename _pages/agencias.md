@@ -54,7 +54,7 @@ post_date: 2018-03-23 11:53:23
 [/section]
 
 [/col]
-[col span="8" span__sm="12" divider="0" align="center" bg_color="rgba(255, 255, 255, 0)" animate="fadeInUp" hover="fade"]
+[col span="8" span__sm="12" divider="0" align="center" bg_color="rgba(255, 255, 255, 0)" animate="fadeInUp"]
 
 <p>[wpsl template="below_map" map_type="roadmap" auto_locate="true" start_marker="red" store_marker="blue"]</p>
 
