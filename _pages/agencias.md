@@ -1038,11 +1038,11 @@ post_date: 2018-03-23 11:53:23
 
 [col span="10" span__sm="12" align="center"]
 
-[section label="Media Top" bg_color="rgb(193, 193, 193)" bg_overlay="rgba(255, 255, 255, 0.85)" sticky="true" padding="0px"]
+[section label="Media Top" bg_color="rgb(20, 20, 20)" bg_overlay="rgba(255, 255, 255, 0.78)" sticky="true" padding="0px"]
 
-[row_inner style="large" h_align="center"]
+[row_inner style="large" width="full-width" h_align="center"]
 
-[col_inner]
+[col_inner align="center" animate="fadeInUp"]
 
 <p>[wpsl template="below_map" map_type="roadmap" auto_locate="true" start_marker="red" store_marker="blue"]</p>
 
