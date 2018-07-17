@@ -1036,7 +1036,21 @@ post_date: 2018-03-23 11:53:23
 [/row]
 [row style="collapse" width="full-width" v_align="equal" h_align="center"]
 
-[col span="7" span__sm="12" divider="0" align="center" bg_color="rgb(37, 37, 37)" color="light" animate="fadeInUp" parallax="1"]
+[col span="4" span__sm="12" align="center"]
+
+[section bg_color="rgb(40, 40, 40)" dark="true"]
+
+[featured_box img="21382" img_width="129"]
+
+<h3>Honda cerca de ti.</h3>
+<p>Ubica tu agencia más cercana. Por favor activa la ubicación de tu dispositivo y permite que conozcamos dónde te encuentras...</p>
+
+[/featured_box]
+
+[/section]
+
+[/col]
+[col span="8" span__sm="12" divider="0" align="center" bg_color="rgb(37, 37, 37)" color="light" animate="fadeInUp" parallax="1"]
 
 <p>[wpsl template="below_map" map_type="roadmap" auto_locate="true" start_marker="red" store_marker="blue"]</p>
 
