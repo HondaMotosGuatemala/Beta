@@ -40,13 +40,13 @@ post_date: 2018-03-23 11:53:23
 [/ux_slider]
 [row style="collapse" width="full-width" v_align="equal" h_align="center"]
 
-[col span="4" span__sm="12" align="center" color="light"]
+[col span="3" span__sm="12" align="center" color="light"]
 
 [section bg_color="rgba(239, 239, 239, 0.96)" effect="sparkle" padding="70px"]
 
-[featured_box img="21382" img_width="129" pos="center" font_size="large"]
+[featured_box img="21382" img_width="99" pos="center" font_size="large"]
 
-<h3 style="color:#D3485B"><b>HONDA </b><span style="color:#464F57">CERCA DE TI</span></h3>
+<h3 style="color:#D3485B"><b>HONDA </b><br><span style="color:#464F57">CERCA DE TI</span></h3>
 <p style="color:#494949;">Ubica tu agencia más cercana. Por favor activa la ubicación de tu dispositivo y permite que conozcamos dónde te encuentras...</p>
 
 [/featured_box]
@@ -54,9 +54,23 @@ post_date: 2018-03-23 11:53:23
 [/section]
 
 [/col]
-[col span="8" span__sm="12" divider="0" align="center" bg_color="rgba(255, 255, 255, 0)" animate="fadeInUp"]
+[col span="6" span__sm="12" divider="0" align="center" bg_color="rgba(255, 255, 255, 0)" animate="fadeInUp"]
 
 <p>[wpsl template="below_map" map_type="roadmap" auto_locate="true" start_marker="red" store_marker="blue"]</p>
+
+[/col]
+[col span="3" span__sm="12" align="center" color="light"]
+
+[section bg_color="rgba(239, 239, 239, 0.96)" effect="sparkle" padding="70px"]
+
+[featured_box img="21391" img_width="99" pos="center" font_size="large"]
+
+<h3 style="color:#D3485B"><b>HONDA </b><br><span style="color:#464F57">EN MAPS</span></h3>
+<p style="color:#494949;">Ahora también puedes ubicar nuestras agencias en la ciudad capital a través de Google Maps o Waze. <a href="https://maps.google.com">Haz click aquí</a></p>
+
+[/featured_box]
+
+[/section]
 
 [/col]
 
