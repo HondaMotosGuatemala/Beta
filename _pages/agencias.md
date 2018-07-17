@@ -1036,21 +1036,9 @@ post_date: 2018-03-23 11:53:23
 [/row]
 [row style="collapse" width="full-width" v_align="equal" h_align="center"]
 
-[col span__sm="12" align="center"]
-
-[section label="Media Top" bg_color="rgb(20, 20, 20)" bg_overlay="rgba(255, 255, 255, 0.78)" padding="0px"]
-
-[row_inner style="large" width="full-width" h_align="center"]
-
-[col_inner align="center" animate="fadeInUp"]
+[col span__sm="12" divider="0" align="center" bg_color="rgb(74, 74, 74)" animate="fadeInUp"]
 
 <p>[wpsl template="below_map" map_type="roadmap" auto_locate="true" start_marker="red" store_marker="blue"]</p>
-
-[/col_inner]
-
-[/row_inner]
-
-[/section]
 
 [/col]
 
