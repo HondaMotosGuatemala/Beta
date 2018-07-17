@@ -8,7 +8,7 @@ permalink: https://motos.honda.com.gt/v2/agencias/
 published: true
 post_date: 2018-03-23 11:53:23
 ---
-[ux_slider label="Header" freescroll="true" draggable="false" arrows="false" nav_color="dark" timer="5000"]
+[ux_slider label="Header" freescroll="true" draggable="false" mobile="false" arrows="false" nav_color="dark" timer="5000"]
 
 [ux_banner height="220px" bg="471" bg_overlay="rgba(0, 0, 0, 0.77)" bg_pos="46% 31%" parallax="4"]
 
