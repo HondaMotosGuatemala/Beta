@@ -1036,11 +1036,11 @@ post_date: 2018-03-23 11:53:23
 [/row]
 [row style="collapse" width="full-width" v_align="equal" h_align="center"]
 
-[col span="4" span__sm="12" align="center"]
+[col span="4" span__sm="12" align="center" color="light"]
 
-[section bg_color="rgb(40, 40, 40)" dark="true"]
+[section bg_color="rgba(0, 0, 0, 0)"]
 
-[featured_box img="21382" img_width="129"]
+[featured_box img="21382" img_width="129" pos="center" font_size="large"]
 
 <h3>Honda cerca de ti.</h3>
 <p>Ubica tu agencia más cercana. Por favor activa la ubicación de tu dispositivo y permite que conozcamos dónde te encuentras...</p>
