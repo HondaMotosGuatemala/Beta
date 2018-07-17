@@ -38,11 +38,11 @@ post_date: 2018-03-23 11:53:23
 [/ux_banner]
 
 [/ux_slider]
-[row style="collapse" width="full-width" v_align="equal" h_align="center"]
+[row style="collapse" col_bg="rgba(239, 239, 239, 0.96)" width="full-width" v_align="equal" h_align="center"]
 
-[col span="3" span__sm="12" align="center" color="light"]
+[col span="3" span__sm="12" padding="0px 0px 80px 0px" align="center" color="light"]
 
-[section bg_color="rgba(239, 239, 239, 0.96)" effect="sparkle" padding="70px"]
+[section bg_color="rgba(239, 239, 239, 0.96)" effect="sparkle" padding="50px"]
 
 [featured_box img="21382" img_width="99" pos="center" font_size="large"]
 
@@ -59,9 +59,9 @@ post_date: 2018-03-23 11:53:23
 <p>[wpsl template="below_map" map_type="roadmap" auto_locate="true" start_marker="red" store_marker="blue"]</p>
 
 [/col]
-[col span="3" span__sm="12" align="center" color="light"]
+[col span="3" span__sm="12" padding="0px 0px 80px 0px" align="center" color="light"]
 
-[section bg_color="rgba(239, 239, 239, 0.96)" effect="sparkle" padding="70px"]
+[section bg_color="rgba(239, 239, 239, 0.96)" effect="sparkle" padding="50px"]
 
 [featured_box img="21391" img_width="99" pos="center" font_size="large"]
 
