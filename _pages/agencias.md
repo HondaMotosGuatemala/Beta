@@ -1036,9 +1036,9 @@ post_date: 2018-03-23 11:53:23
 [/row]
 [row style="collapse" width="full-width" v_align="equal" h_align="center"]
 
-[col span="10" span__sm="12" align="center"]
+[col span__sm="12" align="center"]
 
-[section label="Media Top" bg_color="rgb(20, 20, 20)" bg_overlay="rgba(255, 255, 255, 0.78)" sticky="true" padding="0px"]
+[section label="Media Top" bg_color="rgb(20, 20, 20)" bg_overlay="rgba(255, 255, 255, 0.78)" padding="0px"]
 
 [row_inner style="large" width="full-width" h_align="center"]
 
