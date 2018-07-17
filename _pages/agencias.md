@@ -42,7 +42,7 @@ post_date: 2018-03-23 11:53:23
 
 [col span="4" span__sm="12" align="center" color="light"]
 
-[section bg_color="rgba(239, 239, 239, 0.96)" effect="sparkle"]
+[section bg_color="rgba(239, 239, 239, 0.96)" effect="sparkle" padding="70px"]
 
 [featured_box img="21382" img_width="129" pos="center" font_size="large"]
 
