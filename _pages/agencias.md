@@ -38,6 +38,29 @@ post_date: 2018-03-23 11:53:23
 [/ux_banner]
 
 [/ux_slider]
+[row style="collapse" width="full-width" v_align="equal" h_align="center"]
+
+[col span="4" span__sm="12" align="center" color="light"]
+
+[section bg_color="rgba(239, 239, 239, 0.96)" effect="sparkle"]
+
+[featured_box img="21382" img_width="129" pos="center" font_size="large"]
+
+<h3 style="color:#D3485B"><b>HONDA </b><span style="color:#464F57">CERCA DE TI</span></h3>
+<p style="color:#494949;">Ubica tu agencia más cercana. Por favor activa la ubicación de tu dispositivo y permite que conozcamos dónde te encuentras...</p>
+
+[/featured_box]
+
+[/section]
+
+[/col]
+[col span="8" span__sm="12" divider="0" align="center" bg_color="rgba(255, 255, 255, 0)" animate="fadeInUp" hover="fade"]
+
+<p>[wpsl template="below_map" map_type="roadmap" auto_locate="true" start_marker="red" store_marker="blue"]</p>
+
+[/col]
+
+[/row]
 [row label="Secc-Ubicaciones" class="UbicacionesGeneral"]
 
 [col span__sm="12" visibility="hidden" padding="34px 0px 0px 0px" align="left" class="Ubicaciones"]
@@ -1030,29 +1053,6 @@ post_date: 2018-03-23 11:53:23
 [/tab]
 
 [/tabgroup]
-
-[/col]
-
-[/row]
-[row style="collapse" width="full-width" v_align="equal" h_align="center"]
-
-[col span="4" span__sm="12" align="center" color="light"]
-
-[section bg_color="rgba(0, 0, 0, 0)"]
-
-[featured_box img="21382" img_width="129" pos="center" font_size="large"]
-
-<h3 style="color:#D3485B"><b>HONDA </b><span style="color:#464F57">CERCA DE TI</span></h3>
-<p style="color:#494949;">Ubica tu agencia más cercana. Por favor activa la ubicación de tu dispositivo y permite que conozcamos dónde te encuentras...</p>
-
-[/featured_box]
-
-[/section]
-
-[/col]
-[col span="8" span__sm="12" divider="0" align="center" bg_color="rgba(255, 255, 255, 0)" animate="fadeInUp" hover="fade"]
-
-<p>[wpsl template="below_map" map_type="roadmap" auto_locate="true" start_marker="red" store_marker="blue"]</p>
 
 [/col]
 
