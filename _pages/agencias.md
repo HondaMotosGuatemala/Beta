@@ -1034,11 +1034,23 @@ post_date: 2018-03-23 11:53:23
 [/col]
 
 [/row]
-[row]
+[row style="collapse" width="full-width" v_align="equal" h_align="center"]
 
-[col span__sm="12"]
+[col span="10" span__sm="12" align="center"]
 
-[wpsl template="below_map" map_type="roadmap" auto_locate="true" start_marker="red" store_marker="blue"]
+[section label="Media Top" bg_color="rgb(193, 193, 193)" bg_overlay="rgba(255, 255, 255, 0.85)" sticky="true" padding="0px"]
+
+[row_inner style="large" h_align="center"]
+
+[col_inner]
+
+<p>[wpsl template="below_map" map_type="roadmap" auto_locate="true" start_marker="red" store_marker="blue"]</p>
+
+[/col_inner]
+
+[/row_inner]
+
+[/section]
 
 [/col]
 
