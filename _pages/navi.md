@@ -22,7 +22,7 @@ post_date: 2018-06-14 10:38:18
 
 [col span__sm="12"]
 
-[rev_slider alias="navi-info"]
+<p>[rev_slider alias="navi-info"]</p>
 
 [/col]
 
@@ -44,91 +44,7 @@ post_date: 2018-06-14 10:38:18
 [/row]
 
 [/section]
-[row label="01" style="collapse" width="full-width" class="continuarbtn"]
-
-[col span="6" span__sm="12" animate="fadeInLeft"]
-
-[scroll_to title="Divertida"]
-
-[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.92)" parallax="5"]
-
-[text_box text_color="dark" width="70" position_x="50" position_y="50"]
-
-<h1 style="color:#735799; font-size:490%;">DIVERTIDA</h1>
-<h3 style="color:black;">La NAVI es diferente del resto, no es motoneta y tampoco es Sport. Es para la gente con espíritu joven. </h3>
-
-[/text_box]
-
-[/ux_banner]
-
-[/col]
-[col span="6" span__sm="12" animate="fadeInRight"]
-
-[ux_banner height="500px" bg="21188" bg_size="original" bg_pos="51% 54%" parallax="5"]
-
-
-[/ux_banner]
-
-[/col]
-
-[/row]
-[row label="02" style="collapse" width="full-width" depth_hover="1"]
-
-[col span="6" span__sm="12" animate="fadeInLeft"]
-
-[scroll_to title="Cool"]
-
-[ux_banner height="500px" bg="21184" bg_size="original" parallax="5"]
-
-
-[/ux_banner]
-
-[/col]
-[col span="6" span__sm="12" force_first="small" animate="fadeInRight"]
-
-[ux_banner height="500px" bg="21187" bg_size="original" bg_color="rgba(228, 228, 228, 0)" bg_overlay="rgba(222, 222, 222, 0.92)" bg_pos="38% 60%"]
-
-[text_box text_color="dark" width="70" position_x="50" position_y="50"]
-
-<h1 style="color:#2A99A9; font-size:490%;">COOL</h1>
-<h3 style="color:black;">El cocepto de la NAVI es ser cool y divertida, recomendada para los jóvenes de hoy. </h3>
-
-[/text_box]
-
-[/ux_banner]
-
-[/col]
-
-[/row]
-[row label="03" style="collapse" width="full-width"]
-
-[col span="6" span__sm="12" animate="fadeInLeft"]
-
-[scroll_to title="Chilera"]
-
-[ux_banner height="500px" bg="21187" bg_color="rgb(228, 228, 228)" bg_overlay="rgba(222, 222, 222, 0.94)" parallax="5"]
-
-[text_box text_color="dark" width="70" position_x="50" position_y="50"]
-
-<h1 style="color:#309A86; font-size:590%;">CHILERA</h1>
-<h3 style="color:black;">¿Qué esperas para presumir tu navi? </h3>
-
-[/text_box]
-
-[/ux_banner]
-
-[/col]
-[col span="6" span__sm="12" animate="fadeInRight"]
-
-[ux_banner height="500px" bg="21204" bg_overlay="rgba(48, 154, 134, 0.37)" bg_pos="95% 78%" parallax="5"]
-
-
-[/ux_banner]
-
-[/col]
-
-[/row]
-[section bg="21245" bg_size="original" bg_color="rgba(0, 0, 0, 0.32)" bg_overlay="rgba(0, 0, 0, 0.92)" bg_overlay__sm="rgba(65, 153, 176, 0.96)" bg_pos="58% 54%" dark="true" padding="0px" loading="true"]
+[section visibility="hidden" bg="21245" bg_size="original" bg_color="rgba(0, 0, 0, 0.32)" bg_overlay="rgba(0, 0, 0, 0.92)" bg_overlay__sm="rgba(65, 153, 176, 0.96)" bg_pos="58% 54%" dark="true" padding="0px" loading="true"]
 
 [scroll_to title="Especificaciones"]
 
