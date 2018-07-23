@@ -12,7 +12,7 @@ post_date: 2018-07-23 08:28:06
 
 [col span__sm="12" align="center"]
 
-<p>[rev_slider alias="navi"]</p>
+<p>[rev_slider alias="instahonda"]</p>
 
 [/col]
 
