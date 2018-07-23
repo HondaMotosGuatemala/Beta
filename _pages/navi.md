@@ -13,7 +13,16 @@ post_date: 2018-06-14 10:38:18
 
 [col span__sm="12" align="center"]
 
-[rev_slider alias="navi"]
+<p>[rev_slider alias="navi"]</p>
+
+[/col]
+
+[/row]
+[row style="collapse" width="full-width" v_align="equal" h_align="center"]
+
+[col span__sm="12"]
+
+[rev_slider alias="navi-info"]
 
 [/col]
 
