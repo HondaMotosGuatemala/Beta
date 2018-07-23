@@ -9,9 +9,16 @@ permalink: >
 published: true
 post_date: 2018-06-14 10:38:18
 ---
-[scroll_to title="Navi"]
+[row style="collapse" width="full-width" v_align="equal" h_align="center"]
 
-[section bg="21255" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" parallax="1" effect="sparkle" dark="true" padding="196px"]
+[col span__sm="12" align="center"]
+
+[rev_slider alias="navi"]
+
+[/col]
+
+[/row]
+[section visibility="hidden" bg="21255" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0.66)" bg_pos="51% 48%" parallax="1" effect="sparkle" dark="true" padding="196px"]
 
 [row]
 
