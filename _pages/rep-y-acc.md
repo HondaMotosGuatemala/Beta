@@ -4,8 +4,7 @@ post_title: Repuestos y Accesorios
 author: Bryan Paz
 post_excerpt: ""
 layout: page
-permalink: >
-  https://motos.honda.com.gt/v2/repuestos-y-accesorios/
+permalink: https://motos.honda.com.gt/v2/rep-y-acc/
 published: true
 post_date: 2018-07-31 09:41:08
 ---
