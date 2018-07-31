@@ -10,7 +10,7 @@ post_date: 2018-03-08 15:46:25
 ---
 [ux_slider type="fade" nav_size="normal" bullet_style="dashes-spaced" timer="7000"]
 
-[ux_banner height="40%" height__sm="60%" bg="21361" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0)" bg_pos="39% 39%" hover="overlay-add-50"]
+[ux_banner height="40%" height__sm="60%" bg="21363" bg_size="original" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0)" bg_pos="39% 39%" hover="overlay-remove-50" hover_alt="overlay-add-50"]
 
 
 [/ux_banner]
@@ -124,7 +124,7 @@ post_date: 2018-03-08 15:46:25
 [/row]
 
 [/section]
-[section label="Facebook Mobile" visibility="show-for-small" bg="320" bg_color="rgba(245, 245, 245, 0)" bg_overlay="rgba(64, 100, 143, 0.49)" bg_pos="35% 44%" padding="60px" height="300px"]
+[section label="Facebook Mobile" visibility="hidden" bg="320" bg_color="rgba(245, 245, 245, 0)" bg_overlay="rgba(64, 100, 143, 0.49)" bg_pos="35% 44%" padding="60px" height="300px"]
 
 [row h_align="center"]
 
