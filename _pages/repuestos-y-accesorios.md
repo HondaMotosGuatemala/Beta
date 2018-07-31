@@ -17,7 +17,7 @@ post_date: 2018-07-31 09:41:08
 <h3 class="thin-font" style="text-align: center;"><span style="font-size: 130%;" data-line-height="xs">¿Qué necesitas?</span></h3>
 [gap]
 
-[row]
+[row style="small"]
 
 [col span="4" span__sm="12"]
 
