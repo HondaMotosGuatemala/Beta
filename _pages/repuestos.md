@@ -12,12 +12,12 @@ post_date: 2018-03-14 15:28:08
 
 [col span="7" span__sm="12"]
 
-[ux_banner height="100%" bg="228" bg_overlay="rgba(0, 0, 0, 0.64)" bg_pos="50% 57%" hover="color"]
+[ux_banner height="100%" bg="228" bg_overlay="rgba(0, 0, 0, 0.8)" bg_pos="50% 57%" hover="color"]
 
 [text_box width__sm="96" width__md="79" padding="40px 40px 40px 40px" position_x="50" position_y="50" border="2px 2px 2px 2px"]
 
 <h1 class="uppercase"><strong>Repuestos</strong></h1>
-<p><span style="font-size: 130%;">Es importante que su motocicleta Honda utilice Repuestos y <strong><a title="Accesorios Honda" href="https://motos.honda.com.gt/accesorios">Accesorios</a></strong> Originales, que están diseñados específicamente para cada modelo, este será un ajuste perfecto para un desempeño duradero, mantenga la calidad de su Honda.</span></p>
+<p><span style="font-size: 140%;">Es importante que su motocicleta Honda utilice Repuestos y <strong><a title="Accesorios Honda" href="https://motos.honda.com.gt/accesorios">Accesorios</a></strong> Originales, que están diseñados específicamente para cada modelo, este será un ajuste perfecto para un desempeño duradero, mantenga la calidad de su Honda.</span></p>
 
 [/text_box]
 
@@ -115,7 +115,8 @@ post_date: 2018-03-14 15:28:08
 [logo img="455" title="Repuestos Honda" hover="glow" height="119px"]
 
 <h4 class="lead" style="text-align: center;">Si necesitas información sobre repuestos o accesorios para tu Moto Honda, no dudes en contactarnos por medio de </p>
-<p style="color:#70FF33;">WhatsApp: 5410-4270</p>PBX: 2420-2020
+<p style="color:#70FF33;">WhatsApp: 5410-4270</p>
+<p>PBX: 2420-2020<br />
 </h4>
 
 [/section]
