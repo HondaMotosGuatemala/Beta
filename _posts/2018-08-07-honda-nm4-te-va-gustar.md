@@ -1,0 +1,86 @@
+---
+ID: 21481
+post_title: 'Honda NM4: Te va gustar'
+author: Bryan Paz
+post_excerpt: ""
+layout: post
+permalink: >
+  https://motos.honda.com.gt/v2/blog/honda-nm4-te-va-gustar/
+published: true
+post_date: 2018-08-07 11:44:31
+---
+<!-- wp:cover-image {"url":"https://motos.honda.com.gt/v2/wp-content/uploads/2018/08/honda-nm4.jpg","align":"wide","id":21491} -->
+<div class="wp-block-cover-image has-background-dim alignwide" style="background-image:url(https://motos.honda.com.gt/v2/wp-content/uploads/2018/08/honda-nm4.jpg)"><p class="wp-block-cover-image-text">2018</p></div>
+<!-- /wp:cover-image -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Después de darse a conocer como prototipo y ser la moto del futuro en “Ghost in the Shell”, la Honda NM4 está en Guatemala!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>El primer modelo anunciado como parte de la <strong>gama Honda 2018 en Estados Unidos</strong> ha sido la radical <strong>Honda NM4</strong>. Desde que apareciera como un <strong>ejercicio de diseño,</strong> en el <strong>salón de Osaka de 2014</strong>, la Honda NM4 2018 se ha convertido en centro de atención e iniciado unos cuantos debates debido a su futurista diseño.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"right"} -->
+<p style="text-align:right">...Tienes que verla</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Este punto y aparte estético también ha sido <strong>acogido con los brazos abiertos por la industria cinematográfica</strong>, que le ha dado la Honda NM4 a Scarlett Johansson en el relato de ciencia ficción.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Extravagante</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Aunque el origen de su diseño se encuentra en Japón, <strong>el estilo "anime" de la NM4 se ha convertido en una corriente de culto</strong>internacional con una <strong>estética realmente extravagante</strong>. La comercialización de la NM se anuncia justo después de llegar hace unos meses</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":21494,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="https://motos.honda.com.gt/v2/wp-content/uploads/2018/08/honda-nm4-2.jpg" alt="" class="wp-image-21494"/><figcaption>Estilo elegante y fuera de lo común...</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“La NM4 forma parte de esta filosofía y, <strong>aunque pueda no cautivar a todo el mundo, ese es precisamente el punto</strong>. El modelo ha causado sensación en todos los rincones del mundo, entre los llamados millennials y hombres y mujeres usuarios de mayor edad. Para todos aquellos que se han fijado en ella, <strong>es para mí un placer anunciarles su llegada a los concesionarios como parte de la gama 2018</strong>”.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Ven a conocerla</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>La caja de cambios es la automática de doble embrague Dual Clutch Transmission, que ofrece los modos estándar y sport automatic, aunque también se puede cambiar manualmente desde los mandos en el manillar. La instrumentación puede personalizarse, cambiando de color según el modo de transmisión y ofreciendo gran cantidad de información.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Puedes venir a verla en Honda PowerHouse Zona 10</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:image {"align":"full"} -->
+<figure class="wp-block-image alignfull"><img src="https://cldup.com/8lhI-gKnI2.jpg" alt="Accessibility is important don't forget image alt attribute"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:pullquote -->
+<blockquote class="wp-block-pullquote"><p>Honda Motos Guatemala</p><cite>Agencia Web</cite></blockquote>
+<!-- /wp:pullquote -->
+
+<!-- wp:button {"align":"center"} -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://motos.honda.com.gt/v2/webmaster/">I</a></div>
+<!-- /wp:button -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p style="text-align:center">Gracias por leernos!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p style="text-align:center"><img draggable="false" class="emoji" alt="👋" src="https://s.w.org/images/core/emoji/2.3/svg/1f44b.svg" width="31" height="31"/></p>
+<!-- /wp:paragraph -->
