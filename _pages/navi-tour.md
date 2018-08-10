@@ -4,7 +4,7 @@ post_title: ""
 author: Bryan Paz
 post_excerpt: ""
 layout: page
-permalink: https://motos.honda.com.gt/v2/21503-2/
+permalink: https://motos.honda.com.gt/v2/navi-tour/
 published: true
 post_date: 2018-08-10 09:28:57
 ---
