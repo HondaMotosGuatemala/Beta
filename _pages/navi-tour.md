@@ -1,6 +1,6 @@
 ---
 ID: 21503
-post_title: ""
+post_title: Navi Tour
 author: Bryan Paz
 post_excerpt: ""
 layout: page
