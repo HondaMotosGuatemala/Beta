@@ -20,18 +20,17 @@ post_date: 2018-08-10 09:28:57
 [/col]
 
 [/row]
-[section label="Media Bottom" bg_color="rgb(208, 208, 208)" bg_overlay="rgba(255, 255, 255, 0.85)" padding="0px"]
+[section label="Media Bottom" bg="21184" bg_color="rgb(208, 208, 208)" bg_overlay="rgba(255, 255, 255, 0.85)" bg_pos="46% 36%" padding="0px"]
 
 [row style="collapse" h_align="center"]
 
-[col span="7" span__sm="12" padding="50px 0px 50px 0px" align="center"]
+[col span="6" span__sm="12" padding="50px 0px 50px 0px" align="center"]
 
-<br />
-<h1>Registro para asistir al 2do Navi Tour 2018</h1>
+<h1 style="color:black;" class="uppercase">Registro para asistir al 2do Navi Tour 2018</h1>
 <p>Ingresa tus datos para poder registrarte en nuestro 2do Navi Tour del año 2018. Es indispensable que tengas tu Honda Navi para poder asistir.</p>
 
 [/col]
-[col span="7"]
+[col span="7" padding="21px 31px 19px 31px" bg_color="rgb(255, 255, 255)"]
 
 [contact-form-7 id="21501"]
 
