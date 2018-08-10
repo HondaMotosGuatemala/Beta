@@ -27,7 +27,7 @@ post_date: 2018-08-10 09:28:57
 [col span="6" span__sm="12" padding="50px 0px 12px 0px" align="center"]
 
 <h1 style="color:black;text-shadow: 2px 2px #cc0000;" class="uppercase">Registro Navi TouR<br>Agosto 2018</h1>
-<h5 style="color:black;">Ingresa tus datos para poder registrarte en nuestro 2do Navi Tour del año 2018. Es indispensable que tengas tu Honda Navi para poder asistir.</h5>
+<h5 style="color:black;">Ingresa tus datos para poder registrarte en nuestro 2do Navi Tour del año 2018. Si no tienes una Honda Navi, NO podrás participar.</h5>
 
 [/col]
 [col span="7" span__sm="10" padding="21px 31px 19px 31px" bg_color="rgb(255, 255, 255)"]
