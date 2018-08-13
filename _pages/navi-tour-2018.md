@@ -36,7 +36,7 @@ post_date: 2018-08-13 12:02:52
 
 <p class="alt-font"><span style="font-size: 200%;">Falta poco para</span></p>
 <h1><span style="font-size: 130%;"><strong>NAVI TOUR 2018</strong></span></h1>
-[ux_countdown size="307" color="light" bg_color="rgba(255, 255, 255, 0.86)" year="2018" month="08" day="26" time="07:00" t_week="Sem" t_day="Dia" t_hour="hora" t_sec="seg"]
+[ux_countdown size="307" color="light" bg_color="rgba(111, 30, 227, 0.86)" year="2018" month="08" day="26" time="07:00" t_week="Sem" t_day="Dia" t_hour="hora" t_sec="seg"]
 
 [button text="registrarme" color="white" style="outline" link="https://mhgt.gq/NaviTour2018" target="_blank"]
 
