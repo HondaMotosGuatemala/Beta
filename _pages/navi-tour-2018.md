@@ -13,14 +13,14 @@ post_date: 2018-08-13 12:02:52
 
 [row style="collapse" width="full-width"]
 
-[col span="7" span__sm="12" align="center"]
+[col span="7" span__sm="12" visibility="hide-for-medium" align="center"]
 
 <p><strong>HONDA MOTOS GUATEMALA  </strong>Navi Tour 2018</p>
 
 [/col]
 [col span="5" span__sm="12" align="center"]
 
-[ux_countdown style="text" size="94" color="light" year="2018" month="08" day="26" time="07:00" t_week="sem" t_day="dia" t_hour="hora" t_sec="seg"]
+[ux_countdown style="text" size="94" size__sm="83" color="light" year="2018" month="08" day="26" time="07:00" t_week="sem" t_day="dia" t_hour="hora" t_sec="seg"]
 
 
 [/col]
