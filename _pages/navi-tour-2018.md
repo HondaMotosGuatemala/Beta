@@ -58,7 +58,7 @@ post_date: 2018-08-13 12:02:52
 
 <h3>Exclusivo para Motocicletas Navi</h3>
 <p>Nuestro punto de reunión es en Honda PowerHouse Zona 10. Si necesitas ayuda puedes ir al botón de abajo para guiarte a través de Google Maps</p>
-[button text="ver punto de reunión" animate="fadeInDown" radius="82" depth="1" icon="icon-angle-right" link="https://www.google.com.gt/maps/dir//Honda+PowerHouse,+Boulevar+Los+Proceres+27,+Guatemala,+Guatemala+01010/@14.5972453,-90.5205713,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8589a3bfb720d6dd:0x20b5d19d60c2cee1!2m2!1d-90.492581!2d14.5791212"]
+[button text="ver ubicación en gmaps" animate="fadeInDown" radius="82" depth="1" icon="icon-angle-right" link="https://www.google.com.gt/maps/dir//Honda+PowerHouse,+Boulevar+Los+Proceres+27,+Guatemala,+Guatemala+01010/@14.5972453,-90.5205713,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8589a3bfb720d6dd:0x20b5d19d60c2cee1!2m2!1d-90.492581!2d14.5791212"]
 
 [button text="Ver ruta Waze" style="outline" animate="fadeInUp" radius="82" depth="1" icon="icon-angle-right" link="https://www.waze.com/ul?ll=14.57941977%2C-90.49257159&navigate=yes&zoom=17"]
 
