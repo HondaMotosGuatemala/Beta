@@ -36,7 +36,7 @@ post_date: 2018-08-13 12:02:52
 
 <p class="alt-font"><span style="font-size: 200%;">Falta poco para</span></p>
 <h1><span style="font-size: 130%;"><strong>NAVI TOUR 2018</strong></span></h1>
-[ux_countdown size="307" color="light" bg_color="rgba(111, 30, 227, 0.86)" year="2018" month="08" day="26" time="07:00" t_week="Sem" t_day="Dia" t_hour="hora" t_sec="seg"]
+[ux_countdown bg_color="rgba(227, 30, 30, 0.86)" year="2018" month="08" day="26" time="07:00" t_week="Sem" t_day="Dia" t_hour="hora" t_sec="seg"]
 
 [button text="registrarme" color="white" style="outline" link="https://mhgt.gq/NaviTour2018" target="_blank"]
 
@@ -57,7 +57,8 @@ post_date: 2018-08-13 12:02:52
 [/col]
 [col span="4" span__sm="12" align="center"]
 
-<h3>Exclusivo para Motocicletas Navi</h3><p>Nuestro punto de reunión es en Honda PowerHouse Zona 10. Si necesitas ayuda puedes ir al botón de abajo para guiarte a través de Google Maps</p>
+<h3>Exclusivo para Motocicletas Navi</h3>
+<p>Nuestro punto de reunión es en Honda PowerHouse Zona 10. Si necesitas ayuda puedes ir al botón de abajo para guiarte a través de Google Maps</p>
 [button text="ver punto de reunión" animate="fadeInDown" radius="82" depth="1" icon="icon-angle-right" link="https://www.google.com.gt/maps/dir//Honda+PowerHouse,+Boulevar+Los+Proceres+27,+Guatemala,+Guatemala+01010/@14.5972453,-90.5205713,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8589a3bfb720d6dd:0x20b5d19d60c2cee1!2m2!1d-90.492581!2d14.5791212"]
 
 [button text="Ver ruta Waze" style="outline" animate="fadeInUp" radius="82" depth="1" icon="icon-angle-right" link="https://www.waze.com/ul?ll=14.57941977%2C-90.49257159&navigate=yes&zoom=17"]
