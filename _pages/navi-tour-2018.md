@@ -46,16 +46,15 @@ post_date: 2018-08-13 12:02:52
 [/ux_banner]
 
 [/ux_slider]
-[row style="small" h_align="center"]
+[row style="collapse" width="full-width" h_align="center" padding="35px 0px 35px 0px"]
 
-[col span="6" span__sm="12" align="center"]
+[col span="7" span__sm="12" align="center"]
 
-<h1 class="uppercase">¿estás listo?</h1>
 [ux_image id="21527" width="54"]
 
 
 [/col]
-[col span="4" span__sm="12" align="center"]
+[col span="5" span__sm="12" align="center"]
 
 <h3>Exclusivo para Motocicletas Navi</h3>
 <p>Nuestro punto de reunión es en Honda PowerHouse Zona 10. Si necesitas ayuda puedes ir al botón de abajo para guiarte a través de Google Maps</p>
@@ -67,6 +66,3 @@ post_date: 2018-08-13 12:02:52
 [/col]
 
 [/row]
-[gap height="54px"]
-
-[title style="bold-center" text="Mapa Waze" tag_name="h2" color="rgb(57, 153, 205)" icon="icon-map-pin-fill" size="96"]
