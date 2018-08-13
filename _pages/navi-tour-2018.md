@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-08-13 12:02:52
 ---
-[message_box bg_color="rgb(62, 49, 93)" padding="7"]
+[message_box bg_color="rgb(135, 0, 0)" padding="7"]
 
 [row style="collapse" width="full-width"]
 
