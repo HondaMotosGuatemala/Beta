@@ -69,5 +69,3 @@ post_date: 2018-08-13 12:02:52
 [gap height="54px"]
 
 [title style="bold-center" text="Mapa Waze" tag_name="h2" color="rgb(57, 153, 205)" icon="icon-map-pin-fill" size="96"]
-
-<iframe src="https://embed.waze.com/iframe?zoom=17&lat=14.579419765634944&lon=-90.49257159233095" width="100%" height="650" allowfullscreen/>
