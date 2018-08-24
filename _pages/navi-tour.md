@@ -27,7 +27,7 @@ post_date: 2018-08-10 09:28:57
 [col span="6" span__sm="12" padding="50px 0px 12px 0px" align="center"]
 
 <h1 class="uppercase" style="color: black; text-shadow: 2px 2px #cc0000;">Registro Navi TouR<br />Agosto 2018</h1>
-<h5 style="color: black;"><marquee>CUPO LLENO</marquee></h5>
+<h5 style="color: black;"><marquee>CUPO LLENO‼</marquee></h5>
 
 [/col]
 [col span="7" span__sm="10" padding="21px 31px 21px 31px" margin="0px 0px 54px 0px" bg_color="rgb(255, 255, 255)"]
