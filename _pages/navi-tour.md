@@ -32,7 +32,7 @@ post_date: 2018-08-10 09:28:57
 [/col]
 [col span="7" span__sm="10" padding="21px 31px 21px 31px" margin="0px 0px 54px 0px" bg_color="rgb(255, 255, 255)"]
 
-<h2>El registro para Navi Tour ha concluído. El cupo está lleno. Te esperamos en nuestro próximo evento. </h2>
+<h2>El registro para Navi Tour ha concluído. El cupo está lleno. Te esperamos en nuestro próximo evento.😉 </h2>
 
 [/col]
 
