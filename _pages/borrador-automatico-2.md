@@ -11,16 +11,19 @@ post_date: 2018-08-31 12:31:28
 ---
 [row style="collapse" width="full-width"]
 
-[col span="4" span__sm="12" bg_color="rgb(255, 0, 0)"]
+[col span="4" span__sm="12" align="center" bg_color="rgb(255, 0, 0)" color="light"]
 
-
-[/col]
-[col span="4" span__sm="12" bg_color="rgb(11, 113, 255)"]
-
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 
 [/col]
-[col span="4" span__sm="12" bg_color="rgb(17, 255, 175)"]
+[col span="4" span__sm="12" align="center" bg_color="rgb(0, 255, 73)" color="light"]
 
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/col]
+[col span="4" span__sm="12" align="center" bg_color="rgb(0, 202, 255)" color="light"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 
 [/col]
 
