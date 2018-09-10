@@ -33,7 +33,7 @@ post_date: 2018-09-10 12:36:00
 [/col]
 [col span="1" span__sm="12" align="left"]
 
-[ux_image id="21568" width="3"]
+[ux_image id="21568" width="30"]
 
 
 [/col]
