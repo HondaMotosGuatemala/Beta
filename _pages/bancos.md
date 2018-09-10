@@ -14,7 +14,7 @@ post_date: 2018-09-10 12:36:00
 
 [col span__sm="12" align="center"]
 
-[ux_image id="592" width="25"]
+[ux_image id="592" width="30" link="https://motos.honda.com.gt"]
 
 
 [/col]
@@ -26,15 +26,9 @@ post_date: 2018-09-10 12:36:00
 
 [row style="collapse" width="full-width"]
 
-[col span="11" span__sm="12" align="center"]
+[col span__sm="12" align="center"]
 
-<h1 style="color:white; font-family:arial;">Cuentas Autorizadas Honda</h1>
-
-[/col]
-[col span="1" span__sm="12" align="left"]
-
-[ux_image id="21568" width="30"]
-
+<h1 style="color:white; font-family:century gothic;">Cuentas Autorizadas Honda <img src="https://motos.honda.com.gt/v2/wp-content/uploads/2018/09/1495368559287.png" height="auto" width="25px"></h1><h4 style="color:white">Únicas cuentas bancarias autorizadas<h4>
 
 [/col]
 
