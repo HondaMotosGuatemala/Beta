@@ -43,10 +43,10 @@ post_date: 2018-09-10 12:36:00
 
 [col span="4" span__sm="12"]
 
-[featured_box]
+[featured_box img="21573" img_width="190" pos="center"]
 
-<h3>Lorem ipsum dolor sit amet</h3>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat....</p>
+<h3 style="text-align: center;color:#0285b5;">Banco Industrial</h3>
+<p style="text-align: center; color:black;">Cuenta: 000-010260-8<br>A nombre de: <b>FAHONDA, S.A.</b></p>
 
 [/featured_box]
 
