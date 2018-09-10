@@ -39,9 +39,9 @@ post_date: 2018-09-10 12:36:00
 [/section]
 [section label="Simple Center" bg_color="rgb(227, 227, 227)" padding="60px" height="300px"]
 
-[row style="small" col_style="divided" width="full-width" v_align="equal" h_align="center"]
+[row style="collapse" col_style="divided" width="full-width" v_align="equal" h_align="center"]
 
-[col span="3" span__sm="12" divider="true" margin="0px 0px 25px 0px"]
+[col span="3" span__sm="12" divider="true" padding="10px 0px 25px 0px" depth_hover="2"]
 
 [featured_box img="21573" img_width="190" pos="center"]
 
