@@ -22,7 +22,7 @@ post_date: 2018-09-10 12:36:00
 [/row]
 
 [/section]
-[section bg_overlay="rgb(12, 12, 12)"]
+[section bg_overlay="rgb(12, 12, 12)" padding="8px"]
 
 [row style="collapse" width="full-width"]
 
