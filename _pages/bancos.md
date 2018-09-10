@@ -14,7 +14,7 @@ post_date: 2018-09-10 12:36:00
 
 [col span__sm="12" align="center"]
 
-[ux_image id="592" width="30" link="https://motos.honda.com.gt"]
+[ux_image id="592" width="30" width__sm="65" link="https://motos.honda.com.gt"]
 
 
 [/col]
@@ -22,11 +22,11 @@ post_date: 2018-09-10 12:36:00
 [/row]
 
 [/section]
-[section bg_overlay="rgb(12, 12, 12)" padding="8px"]
+[section bg_overlay="rgb(12, 12, 12)" padding="25px"]
 
-[row style="collapse" width="full-width"]
+[row style="collapse" width="full-width" h_align="center"]
 
-[col span__sm="12" align="center"]
+[col span__sm="9" align="center"]
 
 <h1 style="color:white; font-family:century gothic;">Cuentas Autorizadas Honda <img src="https://motos.honda.com.gt/v2/wp-content/uploads/2018/09/1495368559287.png" height="auto" width="25px"></h1>
 <h4 style="color:white">Únicas cuentas bancarias autorizadas</p>
@@ -46,7 +46,7 @@ post_date: 2018-09-10 12:36:00
 [featured_box img="21573" img_width="190" pos="center"]
 
 <h2 style="text-align: center;color:#0285b5;">Banco Industrial</h2>
-<p style="text-align: center; color:black;">Cuenta: 000-010260-8<br>A nombre de: <b>FAHONDA, S.A.</b></p>
+<p style="text-align: center; color:black;">Cuenta: 000-010260-8<br />A nombre de: <b>FAHONDA, S.A.</b></p>
 
 [/featured_box]
 
