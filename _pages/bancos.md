@@ -1,6 +1,6 @@
 ---
 ID: 21565
-post_title: Cuentas Autorizadas
+post_title: Cuentas Bancarias Autorizadas
 author: Bryan Paz
 post_excerpt: ""
 layout: page
