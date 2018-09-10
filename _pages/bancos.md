@@ -39,14 +39,44 @@ post_date: 2018-09-10 12:36:00
 [/section]
 [section label="Simple Center" bg_color="rgb(227, 227, 227)" padding="60px" height="300px"]
 
-[row style="collapse" v_align="equal" h_align="center"]
+[row style="small" col_style="divided" width="full-width" v_align="equal" h_align="center"]
 
-[col span="4" span__sm="12"]
+[col span="3" span__sm="12" divider="true"]
 
 [featured_box img="21573" img_width="190" pos="center"]
 
-<h3 style="text-align: center;color:#0285b5;">Banco Industrial</h3>
+<h2 style="text-align: center;color:#0285b5;">Banco Industrial</h2>
 <p style="text-align: center; color:black;">Cuenta: 000-010260-8<br>A nombre de: <b>FAHONDA, S.A.</b></p>
+
+[/featured_box]
+
+[/col]
+[col span="3" span__sm="12"]
+
+[featured_box img="21576" img_width="125" pos="center"]
+
+<h2 style="text-align: center; color: #075d40;">Banco Banrural</h2>
+<p style="text-align: center; color: black;">Cuenta: 303338257-9<br />A nombre de: <b>FAHONDA, S.A.</b></p>
+
+[/featured_box]
+
+[/col]
+[col span="3" span__sm="12"]
+
+[featured_box img="21577" img_width="178" pos="center"]
+
+<h2 style="text-align: center; color: #a50b28;">Bac Credomatic</h2>
+<p style="text-align: center; color: black;">Cuenta: 900-25864-1<br />A nombre de: <b>FAHONDA, S.A.</b></p>
+
+[/featured_box]
+
+[/col]
+[col span="3" span__sm="12"]
+
+[featured_box img="21580" img_width="63" pos="center"]
+
+<h2 style="text-align: center; color: #d0112b;">Banco G&amp;T</h2>
+<p style="text-align: center; color: black;">Cuenta: 66-0002842-3<br />A nombre de: <b>FAHONDA, S.A.</b></p>
 
 [/featured_box]
 
