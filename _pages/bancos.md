@@ -41,7 +41,7 @@ post_date: 2018-09-10 12:36:00
 
 [row style="small" col_style="divided" width="full-width" v_align="equal" h_align="center"]
 
-[col span="3" span__sm="12" divider="true"]
+[col span="3" span__sm="12" divider="true" margin="0px 0px 25px 0px" depth_hover="2"]
 
 [featured_box img="21573" img_width="190" pos="center"]
 
@@ -51,7 +51,7 @@ post_date: 2018-09-10 12:36:00
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="12"]
+[col span="3" span__sm="12" padding="0px 0px 25px 0px" depth_hover="2"]
 
 [featured_box img="21576" img_width="125" pos="center"]
 
@@ -61,7 +61,7 @@ post_date: 2018-09-10 12:36:00
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="12"]
+[col span="3" span__sm="12" padding="0px 0px 25px 0px"]
 
 [featured_box img="21577" img_width="178" pos="center"]
 
@@ -71,7 +71,7 @@ post_date: 2018-09-10 12:36:00
 [/featured_box]
 
 [/col]
-[col span="3" span__sm="12"]
+[col span="3" span__sm="12" padding="0px 0px 25px 0px"]
 
 [featured_box img="21580" img_width="63" pos="center"]
 
