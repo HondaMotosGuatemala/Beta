@@ -24,7 +24,7 @@ post_date: 2018-03-21 14:52:53
 [/text_box]
 [text_box position_x="50" position_y="95" text_align="left"]
 
-<p>Motos Honda Guatemala</p>
+<p>Honda Motos Guatemala</p>
 
 [/text_box]
 
@@ -35,7 +35,7 @@ post_date: 2018-03-21 14:52:53
 
 [ux_banner height="100%" bg="217" bg_overlay="rgba(62, 62, 62, 0.85)" bg_pos="40% 75%"]
 
-[text_box width="58" position_x="50" position_y="50" text_align="left"]
+[text_box width="69" width__sm="76" position_x="50" position_y="50" text_align="left"]
 
 <h2 class="uppercase"><b>Formulario de contacto</b></h2>
 [gap height="15px"]
@@ -50,14 +50,16 @@ post_date: 2018-03-21 14:52:53
 [/col]
 
 [/row]
-[ux_banner height="100%" bg_color="rgb(41, 77, 151)"]
+[ux_banner height="100%" height__sm="365px" bg_color="rgb(41, 77, 151)"]
 
-[text_box width="49" position_x="15" position_y="5" text_align="left"]
+[text_box width="49" width__sm="80" position_x="15" position_y="5" text_align="left"]
 
 [ux_image id="603" width="31"]
 
 <h2 class="uppercase">Facebook</h2>
 <h3 class="thin-font" data-opacity="0.6">Ahora puedes adquirir tu moto sin presentarte en la agencia, haz tu compra segura y rápida.</h3>
+[button text="Chat En Facebook" color="white" style="outline" radius="99" icon="icon-facebook"]
+
 
 [/text_box]
 [text_box position_x="50" position_y="95" text_align="left"]
