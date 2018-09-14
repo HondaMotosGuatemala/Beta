@@ -58,7 +58,7 @@ post_date: 2018-03-21 14:52:53
 
 <h2 class="uppercase">Facebook</h2>
 <h3 class="thin-font" data-opacity="0.6">Ahora puedes adquirir tu moto sin presentarte en la agencia, haz tu compra segura y rápida.</h3>
-[button text="Chat En Facebook" color="white" style="outline" radius="99" icon="icon-facebook"]
+[button text="Chat En Facebook" color="white" style="outline" radius="99" icon="icon-facebook" link="https://m.me/HondaMotosGuatemala"]
 
 
 [/text_box]
