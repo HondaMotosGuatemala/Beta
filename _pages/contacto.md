@@ -64,3 +64,15 @@ post_date: 2018-03-21 14:52:53
 [/col]
 
 [/row]
+[section label="Simple Center" bg_color="rgb(245, 245, 245)" padding="60px" height="300px"]
+
+[row h_align="center"]
+
+[col span="10" span__sm="12" align="center"]
+
+
+[/col]
+
+[/row]
+
+[/section]
