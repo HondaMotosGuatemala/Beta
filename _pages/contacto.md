@@ -33,7 +33,7 @@ post_date: 2018-03-21 14:52:53
 [ux_image id="600" width="23" parallax="-1"]
 
 <h2 class="uppercase">Escríbenos</h2>
-<h3 class="thin-font" data-opacity="0.6">Contacta con nuestro equipo y te brindaremos atención lo antes posible. Recuerda que también puedes usar nuestro chat en línea.</h3>
+<h3 class="thin-font" data-opacity="0.6">Contacta con nuestro equipo y te brindaremos atención lo antes posible. </h3>
 
 [/text_box]
 [text_box position_x="50" position_y="95" text_align="left"]
