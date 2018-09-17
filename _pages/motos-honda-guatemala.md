@@ -8,8 +8,8 @@ permalink: https://motos.honda.com.gt/v2/
 published: true
 post_date: 2018-03-08 15:46:25
 ---
-[rev_slider alias="home"]
-[ux_slider type="fade" nav_size="normal" bullet_style="dashes-spaced" timer="7000"]
+<p>[rev_slider alias="home"]</p>
+[ux_slider type="fade" visibility="hidden" nav_size="normal" bullet_style="dashes-spaced" timer="7000"]
 
 [ux_banner height="40%" height__sm="60%" bg="21363" bg_size="original" bg_color="rgb(0, 0, 0)" bg_overlay="rgba(0, 0, 0, 0)" bg_pos="39% 39%" hover="overlay-remove-50" hover_alt="overlay-add-50"]
 
