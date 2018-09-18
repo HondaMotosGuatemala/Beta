@@ -8,3 +8,4 @@ permalink: https://motos.honda.com.gt/v2/revs/
 published: true
 post_date: 2018-09-18 15:56:27
 ---
+[rev_slider alias="slaido_74"]
