@@ -70,7 +70,7 @@ post_date: 2018-03-21 14:52:53
 
 [col span__sm="12" align="center" text_depth="1"]
 
-<h2 class="thin-font"><span class="fancy-underline">Medios de comunicación oficial</span></h2>
+<h2 style="color:black;" class="thin-font"><span class="fancy-underline">¿Qué necesitas el día de hoy?</span></h2>
 
 [/col]
 
