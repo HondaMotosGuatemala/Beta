@@ -9,13 +9,13 @@ permalink: >
 published: true
 post_date: 2018-09-20 14:19:44
 ---
-[section sticky="true"]
+[section]
 
 [row style="collapse" width="full-width" v_align="equal" h_align="center"]
 
 [col span__sm="12" align="center"]
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHHbyRfTuXhQACROXBL0DEVGE7C6jfA86KSh7qeEFoAvEa-A/viewform?embedded=true" width="100%" height="900px" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHHbyRfTuXhQACROXBL0DEVGE7C6jfA86KSh7qeEFoAvEa-A/viewform?embedded=true" width="100%" height="900px" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe></p>
 
 [/col]
 
