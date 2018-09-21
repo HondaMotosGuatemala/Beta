@@ -42,7 +42,7 @@ post_date: 2018-09-20 14:19:44
 
 [col span__sm="12" align="center"]
 
-[ux_image id="592" width="26" image_hover_alt="zoom" link="https://motos.honda.com.gt"]
+[ux_image id="592" width="26" animate="bounceInUp" link="https://motos.honda.com.gt"]
 
 
 [/col]
