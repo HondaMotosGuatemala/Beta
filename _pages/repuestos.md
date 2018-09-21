@@ -23,7 +23,7 @@ post_date: 2018-09-20 14:19:44
 [/row]
 
 [/section]
-[section bg_color="rgb(0, 0, 0)" effect="rain" padding="12px" padding__sm="0px" height="260px" height__sm="0px" loading="true"]
+[section bg_color="rgb(0, 0, 0)" padding="12px" padding__sm="0px" height="260px" height__sm="0px" loading="true"]
 
 [row style="collapse" width="full-width" v_align="equal" h_align="center"]
 
