@@ -44,7 +44,7 @@ post_date: 2018-03-08 15:46:25
 [/ux_slider]
 [row style="collapse" width="full-width"]
 
-[col span__sm="12"]
+[col span__sm="12" bg_color="rgb(0, 0, 0)" color="light"]
 
 <p>[rev_slider alias="modelos"]</p>
 
