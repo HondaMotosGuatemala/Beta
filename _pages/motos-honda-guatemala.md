@@ -42,6 +42,15 @@ post_date: 2018-03-08 15:46:25
 [/ux_banner]
 
 [/ux_slider]
+[row style="collapse" width="full-width"]
+
+[col span__sm="12"]
+
+[rev_slider alias="modelos"]
+
+[/col]
+
+[/row]
 [row label="RowModelos" style="collapse" col_bg="rgb(0, 0, 0)" width="full-width" h_align="center"]
 
 [col span__sm="12" divider="0" align="center" bg_color="rgb(15, 15, 15)" animate="bounceInUp"]
