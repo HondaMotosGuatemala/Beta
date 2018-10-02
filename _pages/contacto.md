@@ -24,7 +24,7 @@ post_date: 2018-03-21 14:52:53
 [/section]
 [row style="collapse" width="full-width"]
 
-[col span="5" span__sm="12"]
+[col span="4" span__sm="12"]
 
 [ux_banner height="100%" bg_color="rgb(12, 12, 12)"]
 
@@ -45,13 +45,13 @@ post_date: 2018-03-21 14:52:53
 [/ux_banner]
 
 [/col]
-[col span="7" span__sm="12"]
+[col span="8" span__sm="12"]
 
-[ux_banner height="100%" bg="217" bg_overlay="rgba(62, 62, 62, 0.85)" bg_pos="40% 75%"]
+[ux_banner height="100%" bg="217" bg_overlay="rgba(0, 0, 0, 0.85)" bg_pos="40% 75%"]
 
 [text_box width="69" width__sm="76" position_x="50" position_y="50" text_align="left"]
 
-<h2 class="uppercase"><b>Formulario de contacto</b></h2>
+<h2 class="uppercase"><b>Llena los campos de contacto</b></h2>
 [gap height="15px"]
 
 [contact-form-7 id="449"]
