@@ -91,18 +91,18 @@ post_date: 2018-03-21 14:52:53
 [col span="4" span__sm="6" align="center"]
 
 <h2 style="color:black; font-family:century gothic;text-shadow: 1px 1px #737272;">Venta de Repuestos</h2>
-[button text="Ventas PBX" letter_case="lowercase" size="small" radius="99" link="tel:+50224202020"]
-
 [button text="WhatsApp" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50254104270"]
+
+[button text="Ventas PBX" letter_case="lowercase" size="small" radius="99" link="tel:+50224202020"]
 
 
 [/col]
 [col span="4" span__sm="6" align="center"]
 
 <h2 style="color:black; font-family:century gothic;text-shadow: 1px 1px #737272;">Taller</h2>
-[button text="WhatsApp" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50241288282?text=Necesito una cotización de la motocicleta:"]
-
 [button text="Ventas PBX" letter_case="lowercase" size="small" radius="99" icon="icon-phone" link="tel:+50224202020"]
+
+[button text="WhatsApp" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50241288282?text=Necesito una cotización de la motocicleta:"]
 
 
 [/col]
