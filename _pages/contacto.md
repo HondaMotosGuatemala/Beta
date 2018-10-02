@@ -80,9 +80,9 @@ post_date: 2018-03-21 14:52:53
 [col span="4" span__sm="6" align="center"]
 
 <h2 style="color:black; font-family:century gothic;text-shadow: 1px 1px #737272;">Venta de Motos</h2>
-[button text="WhatsApp 1" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50241288282?text=Necesito una cotización de la motocicleta:"]
+[button text="WhatsApp 1" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50241287676?text=Necesito una cotización de la motocicleta:"]
 
-[button text="WhatsApp 2" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50241287676?text=Necesito una cotización de la motocicleta:"]
+[button text="WhatsApp 2" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50241288282?text=Necesito una cotización de la motocicleta:"]
 
 [button text="Ventas PBX" letter_case="lowercase" size="small" radius="99" icon="icon-phone" link="tel:+50223627895"]
 
