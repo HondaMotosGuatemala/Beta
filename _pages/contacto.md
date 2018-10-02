@@ -38,7 +38,7 @@ post_date: 2018-03-21 14:52:53
 [/text_box]
 [text_box position_x="50" position_y="95" text_align="left"]
 
-<p>Honda Motos Guatemala</p>
+<h4 class="thin-font">Honda Motos Guatemala</h4>
 
 [/text_box]
 
