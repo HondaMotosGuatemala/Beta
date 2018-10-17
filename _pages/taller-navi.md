@@ -9,4 +9,12 @@ permalink: >
 published: true
 post_date: 2018-10-17 16:09:17
 ---
+[row style="collapse" width="full-width" v_align="equal" h_align="center"]
+
+[col span__sm="12" padding="75px 0px 75px 0px"]
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8ojT-zZblYGqiY388juS3PC_ZWTCcjD-WgxtlI9JawNX98w/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+
+[/col]
+
+[/row]
