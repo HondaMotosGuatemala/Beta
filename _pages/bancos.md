@@ -1,13 +1,14 @@
 ---
 ID: 21565
 post_title: Cuentas Bancarias Autorizadas
-author: Bryan Paz
+author: Bernie Flores
 post_excerpt: ""
 layout: page
 permalink: https://motos.honda.com.gt/v2/bancos/
 published: true
 post_date: 2018-09-10 12:36:00
 ---
+<!-- wp:html -->
 [section bg_color="rgb(195, 23, 23)" dark="true"]
 
 [row style="collapse" width="full-width" h_align="center"]
@@ -46,7 +47,7 @@ post_date: 2018-09-10 12:36:00
 [featured_box img="21573" img_width="190" pos="center"]
 
 <h2 style="text-align: center;color:#0285b5;">Banco Industrial</h2>
-<p style="text-align: center; color:black;">Cuenta: 000-010260-8<br />A nombre de: <b>FAHONDA, S.A.</b></p>
+<p style="text-align: center; color:black;">Cuenta: 000-010260-8<br />A nombre de: <b>Agencia y fabrica Honda S.A.</b></p>
 
 [/featured_box]
 
@@ -56,7 +57,7 @@ post_date: 2018-09-10 12:36:00
 [featured_box img="21576" img_width="125" pos="center"]
 
 <h2 style="text-align: center; color: #075d40;">Banco Banrural</h2>
-<p style="text-align: center; color: black;">Cuenta: 303338257-9<br />A nombre de: <b>FAHONDA, S.A.</b></p>
+<p style="text-align: center; color: black;">Cuenta: 303338257-9<br />A nombre de: <b>Agencia y fabrica Honda S.A.</b></p>
 
 [/featured_box]
 
@@ -66,7 +67,7 @@ post_date: 2018-09-10 12:36:00
 [featured_box img="21577" img_width="178" pos="center"]
 
 <h2 style="text-align: center; color: #a50b28;">Bac Credomatic</h2>
-<p style="text-align: center; color: black;">Cuenta: 900-25864-1<br />A nombre de: <b>FAHONDA, S.A.</b></p>
+<p style="text-align: center; color: black;">Cuenta: 900-25864-1<br />A nombre de: <b>Agencia y fabrica Honda S.A.</b></p>
 
 [/featured_box]
 
@@ -76,7 +77,7 @@ post_date: 2018-09-10 12:36:00
 [featured_box img="21580" img_width="63" pos="center"]
 
 <h2 style="text-align: center; color: #d0112b;">Banco G&amp;T</h2>
-<p style="text-align: center; color: black;">Cuenta: 66-0002842-3<br />A nombre de: <b>FAHONDA, S.A.</b></p>
+<p style="text-align: center; color: black;">Cuenta: 66-0002842-3<br />A nombre de: <b>Agencia y fabrica Honda S.A.</b></p>
 
 [/featured_box]
 
@@ -94,3 +95,4 @@ post_date: 2018-09-10 12:36:00
 [/row]
 
 [/section]
+<!-- /wp:html -->
