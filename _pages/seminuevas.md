@@ -54,8 +54,6 @@ post_date: 2019-04-11 12:31:29
 [text_box width="69" width__sm="76" position_x="50" position_y="50" text_align="left"]
 
 <h3 class="uppercase" style="text-align: center;"><b>Llena los campos PARA RECIBIR INFORMACIÓN&nbsp;DE MOTOCICLETAS SEMINUEVAS</b></h3>
-<? php $ variable1 = get_query_var ('variable1'); ?>
-<? echo $ variable1 ?>
 
 [gap height="15px"]
 
