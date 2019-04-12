@@ -10,6 +10,7 @@ published: true
 post_date: 2019-04-11 12:31:29
 ---
 <!-- wp:html -->
+$_GET['variable1']
 [section bg_color="rgb(233, 43, 44)" dark="true"]
 
 [row style="collapse" width="full-width" h_align="center"]
@@ -55,7 +56,6 @@ post_date: 2019-04-11 12:31:29
 
 <h3 class="uppercase" style="text-align: center;"><b>Llena los campos PARA RECIBIR INFORMACIÓN&nbsp;DE MOTOCICLETAS SEMINUEVAS
 <?php
-$_GET['variable1']
 echo .$variable1.
 ?>
 
