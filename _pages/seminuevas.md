@@ -10,7 +10,6 @@ published: true
 post_date: 2019-04-11 12:31:29
 ---
 <!-- wp:html -->
-$_GET['variable1']
 [section bg_color="rgb(233, 43, 44)" dark="true"]
 
 [row style="collapse" width="full-width" h_align="center"]
