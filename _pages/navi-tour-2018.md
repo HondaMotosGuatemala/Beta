@@ -21,7 +21,7 @@ post_date: 2018-08-13 12:02:52
 [/col]
 [col span="5" span__sm="12" align="center"]
 
-[ux_countdown style="text" size="94" size__sm="83" color="light" year="2018" month="08" day="26" time="07:00" t_week="sem" t_day="dia" t_hour="hora" t_sec="seg"]
+[ux_countdown style="text" size="94" size__sm="83" color="light" year="2019" month="05" day="04" time="12:00" t_week="sem" t_day="dia" t_hour="hora" t_sec="seg"]
 
 
 [/col]
