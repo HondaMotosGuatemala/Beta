@@ -14,7 +14,7 @@ post_date: 2019-04-25 12:11:28
 
 [ux_slider style="container"]
 
-[ux_image id="22381"]
+[ux_image id="22386"]
 
 [ux_image id="22382"]
 
