@@ -16,7 +16,6 @@ post_date: 2019-04-25 12:11:28
 
 [text_box width="41" width__sm="80" animate="bounceIn" position_x="50" position_x__sm="50" position_y="50" position_y__sm="50"]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OqvSug3Yq8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [/text_box]
 
