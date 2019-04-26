@@ -21,7 +21,7 @@ post_date: 2019-04-25 12:11:28
 [/text_box]
 
 [/ux_banner]
-[ux_banner height="540px" bg="8957" bg_color="rgb(113, 117, 186)" bg_pos="60% 16%" parallax="3"]
+[ux_banner height="540px" bg="22377" bg_color="rgb(113, 117, 186)" bg_pos="60% 16%" parallax="3" video_mp4="https://motos.honda.com.gt/v2/wp-content/uploads/2019/04/57220149_378551806321791_6097335053157662720_n.mp4"]
 
 [text_box width="41" width__sm="82" position_x="10" position_x__sm="50" position_y="50" position_y__sm="50"]
 
