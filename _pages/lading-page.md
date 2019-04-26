@@ -12,7 +12,7 @@ post_date: 2019-04-25 12:11:28
 <!-- wp:html -->
 [logo img="22368" title="Honda Motos" hover="grayscale" link="https://motos.honda.com.gt"]
 
-[ux_slider]
+[ux_slider style="container"]
 
 [ux_image id="22381"]
 
