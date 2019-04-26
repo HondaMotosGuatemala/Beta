@@ -10,9 +10,7 @@ published: true
 post_date: 2019-04-25 12:11:28
 ---
 <!-- wp:html -->
-[logo img="22368" title="Honda Motos" hover="grayscale" link="https://motos.honda.com.gt"]
-
-[ux_slider style="focus"]
+[ux_slider style="shadow"]
 
 [ux_image id="22389"]
 
@@ -22,6 +20,8 @@ post_date: 2019-04-25 12:11:28
 
 
 [/ux_slider]
+[logo img="22368" title="Honda Motos" hover="grayscale" link="https://motos.honda.com.gt"]
+
 [ux_banner height="540px" bg="8950" bg_size="original" bg_color="#e72b2b" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3" effect="rain" target="_blank"]
 
 [text_box width="41" width__sm="80" animate="bounceIn" position_x="50" position_x__sm="50" position_y="50" position_y__sm="50"]
