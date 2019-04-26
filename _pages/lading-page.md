@@ -14,7 +14,7 @@ post_date: 2019-04-25 12:11:28
 
 [ux_banner height="540px" bg="8950" bg_size="original" bg_overlay__sm="rgba(0, 0, 0, 0.3)" bg_pos="35% 23%" parallax="3"]
 
-[text_box width="41" width__sm="80" animate="fadeInLeft" position_x="50" position_x__sm="50" position_y="50" position_y__sm="50"]
+[text_box width="41" width__sm="80" animate="bounceIn" position_x="50" position_x__sm="50" position_y="50" position_y__sm="50"]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OqvSug3Yq8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
