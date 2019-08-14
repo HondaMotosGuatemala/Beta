@@ -39,7 +39,7 @@ post_date: 2018-08-13 12:02:52
 <h1><span style="font-size: 130%;"><strong>NAVI TOUR 2019</strong></span></h1>
 [ux_countdown bg_color="rgba(227, 30, 30, 0.86)" year="2019" month="08" day="25" time="08:00" t_week="Sem" t_day="Dia" t_hour="hora" t_sec="seg"]
 
-[button text="registrarme" color="secondary" style="gloss" size="larger" link="https://hondanavigt.com/tour/nocturno/"]
+[button text="registrarme" color="success" style="gloss" size="larger" link="https://hondanavigt.com/tour/nocturno/"]
 
 
 [/text_box]
