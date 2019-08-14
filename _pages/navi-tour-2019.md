@@ -37,7 +37,7 @@ post_date: 2018-08-13 12:02:52
 
 <p class="alt-font"><span style="font-size: 200%;">Falta poco para</span></p>
 <h1><span style="font-size: 130%;"><strong>NAVI TOUR 2019</strong></span></h1>
-[ux_countdown bg_color="rgba(227, 30, 30, 0.86)" year="2019" month="05" day="04" time="12:00" t_week="Sem" t_day="Dia" t_hour="hora" t_sec="seg"]
+[ux_countdown bg_color="rgba(227, 30, 30, 0.86)" year="2019" month="08" day="25" time="08:00" t_week="Sem" t_day="Dia" t_hour="hora" t_sec="seg"]
 
 [button text="registrarme" color="white" style="outline" link="https://hondanavigt.com/tour/nocturno/" target="_blank"]
 
@@ -51,7 +51,7 @@ post_date: 2018-08-13 12:02:52
 
 [col span="7" span__sm="12" align="center"]
 
-[ux_image id="22351" width="54"]
+[ux_image id="22396" width="54"]
 
 
 [/col]
@@ -67,4 +67,5 @@ post_date: 2018-08-13 12:02:52
 [/col]
 
 [/row]
+
 <!-- /wp:html -->
