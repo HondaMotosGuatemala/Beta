@@ -21,7 +21,7 @@ post_date: 2018-08-13 12:02:52
 [/col]
 [col span="5" span__sm="12" align="center"]
 
-[ux_countdown style="text" size="94" size__sm="83" color="light" year="2019" month="05" day="04" time="12:00" t_week="sem" t_day="dia" t_hour="hora" t_sec="seg"]
+[ux_countdown style="text" size="94" size__sm="83" color="light" year="2019" month="08" day="25" time="08:00" t_week="sem" t_day="dia" t_hour="hora" t_sec="seg"]
 
 
 [/col]
@@ -58,10 +58,10 @@ post_date: 2018-08-13 12:02:52
 [col span="5" span__sm="12" align="center"]
 
 <h3>Exclusivo para Motocicletas Navi</h3>
-<p>Nuestro punto de reunión es en Honda PowerHouse Zona 10. Si necesitas ayuda puedes ir al botón de abajo para guiarte a través de Google Maps</p>
-[button text="ver ubicación en gmaps" animate="fadeInDown" radius="82" depth="1" icon="icon-angle-right" link="https://www.google.com.gt/maps/dir//Honda+PowerHouse,+Boulevar+Los+Proceres+27,+Guatemala,+Guatemala+01010/@14.5972453,-90.5205713,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8589a3bfb720d6dd:0x20b5d19d60c2cee1!2m2!1d-90.492581!2d14.5791212"]
+<p>Nuestro punto de reunión es en Honda Central Zona 4. Si necesitas ayuda puedes ir al botón de abajo para guiarte a través de Google Maps</p>
+[button text="ver ubicación en gmaps" animate="fadeInDown" radius="82" depth="1" icon="icon-angle-right" link="https://www.google.com.gt/maps/dir//Honda+Motos,+Via+8,+Guatemala/@14.6175439,-90.5153129,16.5z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8589a2322170c617:0x471ed34f7b32d0de!2m2!1d-90.5149814!2d14.617099"]
 
-[button text="Ver ruta Waze" style="outline" animate="fadeInUp" radius="82" depth="1" icon="icon-angle-right" link="https://www.waze.com/ul?ll=14.57941977%2C-90.49257159&amp;navigate=yes&amp;zoom=17"]
+[button text="Ver ruta Waze" style="outline" animate="fadeInUp" radius="82" depth="1" icon="icon-angle-right" link="https://www.waze.com/es/directions/guatemala/zona-4,-guatemala/taller-mecanica-honda-zona-4/176619666.1766131126.10624711.html"]
 
 
 [/col]
