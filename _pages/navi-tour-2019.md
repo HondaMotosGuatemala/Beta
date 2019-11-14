@@ -1,6 +1,6 @@
 ---
 ID: 21525
-post_title: Navi Tour 2019
+post_title: Navi Tour Nocturno 2019
 author: Bernie Flores
 post_excerpt: ""
 layout: page
