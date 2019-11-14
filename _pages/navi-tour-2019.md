@@ -16,12 +16,12 @@ post_date: 2018-08-13 12:02:52
 
 [col span="7" span__sm="12" visibility="hide-for-medium" align="center"]
 
-<p><strong>HONDA MOTOS GUATEMALA&nbsp;&nbsp;</strong>Navi Tour 2019</p>
+<p><strong>HONDA MOTOS GUATEMALA&nbsp;&nbsp;</strong>Navi Tour Nocturno 2019</p>
 
 [/col]
 [col span="5" span__sm="12" align="center"]
 
-[ux_countdown style="text" size="94" size__sm="83" color="light" year="2019" month="08" day="25" time="08:00" t_week="sem" t_day="dia" t_hour="hora" t_sec="seg"]
+[ux_countdown style="text" size="94" size__sm="83" color="light" year="2019" day="06" t_week="sem" t_day="dia" t_hour="hora" t_sec="seg"]
 
 
 [/col]
@@ -67,4 +67,5 @@ post_date: 2018-08-13 12:02:52
 [/col]
 
 [/row]
+
 <!-- /wp:html -->
