@@ -1,13 +1,14 @@
 ---
 ID: 446
 post_title: Contacto
-author: Bryan Paz
+author: Bernie Flores
 post_excerpt: ""
 layout: page
 permalink: https://motos.honda.com.gt/v2/contacto/
 published: true
 post_date: 2018-03-21 14:52:53
 ---
+<!-- wp:html -->
 [section bg_color="rgb(233, 43, 44)" dark="true"]
 
 [row style="collapse" width="full-width" h_align="center"]
@@ -38,11 +39,11 @@ post_date: 2018-03-21 14:52:53
 [col span="4" span__sm="6" align="center"]
 
 <h2 style="color:black; font-family:century gothic;text-shadow: 1px 1px #737272;">Venta de Motos</h2>
-[button text="WhatsApp 1" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50241287676?text=Necesito una cotización de la motocicleta:"]
+[button text="WhatsApp 1" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50241569999?text=Necesito una cotización de la motocicleta:"]
 
-[button text="WhatsApp 2" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50241288282?text=Necesito una cotización de la motocicleta:"]
+[button text="WhatsApp 2" letter_case="lowercase" color="success" size="small" radius="99" icon="icon-user" link="https://wa.me/50241569999?text=Necesito una cotización de la motocicleta:"]
 
-[button text="Ventas PBX" letter_case="lowercase" size="small" radius="99" icon="icon-phone" link="tel:+50223627895"]
+[button text="Ventas PBX" letter_case="lowercase" size="small" radius="99" icon="icon-phone" link="tel:+50222256250"]
 
 
 [/col]
@@ -110,3 +111,4 @@ post_date: 2018-03-21 14:52:53
 [/col]
 
 [/row]
+<!-- /wp:html -->
