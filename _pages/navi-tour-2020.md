@@ -1,6 +1,6 @@
 ---
 ID: 21525
-post_title: Navi Tour Nocturno 2020
+post_title: Navi Tour 2020
 author: Bernie Flores
 post_excerpt: ""
 layout: page
@@ -68,5 +68,4 @@ post_date: 2018-08-13 12:02:52
 [/col]
 
 [/row]
-
 <!-- /wp:html -->
