@@ -31,7 +31,7 @@ post_date: 2018-08-13 12:02:52
 [/message_box]
 [ux_slider]
 
-[ux_banner height="706px" bg="22415" bg_overlay="rgba(0, 0, 0, 0.35)" bg_pos="10% 70%"]
+[ux_banner height="706px" bg="22424" bg_overlay="rgba(0, 0, 0, 0.35)" bg_pos="10% 70%"]
 
 [text_box width="61" width__sm="80" position_x="50" position_y="50"]
 
