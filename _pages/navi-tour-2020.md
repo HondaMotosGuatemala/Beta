@@ -52,7 +52,7 @@ post_date: 2018-08-13 12:02:52
 
 [col span="7" span__sm="12" align="center"]
 
-[ux_image id="22407" width="54"]
+[ux_image id="22435" width="54"]
 
 
 [/col]
@@ -68,4 +68,5 @@ post_date: 2018-08-13 12:02:52
 [/col]
 
 [/row]
+
 <!-- /wp:html -->
