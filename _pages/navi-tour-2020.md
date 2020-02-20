@@ -5,7 +5,7 @@ author: Bernie Flores
 post_excerpt: ""
 layout: page
 permalink: >
-  https://motos.honda.com.gt/v2/evento/navi-tour-2019/
+  https://motos.honda.com.gt/v2/evento/navi-tour-2020/
 published: true
 post_date: 2018-08-13 12:02:52
 ---
@@ -68,5 +68,4 @@ post_date: 2018-08-13 12:02:52
 [/col]
 
 [/row]
-
 <!-- /wp:html -->
