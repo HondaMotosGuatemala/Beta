@@ -36,9 +36,9 @@ post_date: 2018-08-13 12:02:52
 [text_box width="61" width__sm="80" position_x="50" position_y="50"]
 
 <p class="alt-font"><span style="font-size: 200%;">Falta poco para</span></p>
-<h1><span style="font-size: 100%;"><strong>NAVI TOUR NOCTURNO 2019</strong></span></h1>
-<p><h4>Te esperamos en la Agencia Honda Zona 4 el 6 de Diciembre a las 18:00 pm.<br><H1>¡CUPO LLENO!</H1></p>
-[ux_countdown bg_color="rgba(227, 30, 30, 0.86)" year="2019" day="06" t_week="Sem" t_day="Dia" t_hour="hora" t_sec="seg"]
+<h1><span style="font-size: 100%;"><strong>NAVI TOUR  2020 <BR>"EL ROCARENA"</strong></span></h1>
+<p><h4>Te esperamos en la Agencia Honda Zona 4 el 8 de Marzo a las 08:00 am.<br /><H1></H1></p>
+[ux_countdown bg_color="rgba(227, 30, 30, 0.86)" year="2020" month="03" day="08" time="08:00" t_week="Sem" t_day="Dia" t_hour="hora" t_sec="seg"]
 
 [button text="registrarme" color="success" style="gloss" size="larger" link="https://hondanavigt.com/tour/nocturno/"]
 
