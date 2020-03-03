@@ -21,7 +21,7 @@ post_date: 2018-08-13 12:02:52
 [/col]
 [col span="5" span__sm="12" align="center"]
 
-[ux_countdown style="text" size="94" size__sm="83" color="light" year="2020" month="03" day="08" time="08:00" t_week="sem" t_day="dia" t_hour="hora" t_sec="seg"]
+[ux_countdown style="text" size="94" size__sm="83" color="light" year="2020" month="03" day="15" time="08:00" t_week="sem" t_day="dia" t_hour="hora" t_sec="seg"]
 
 
 [/col]
@@ -68,4 +68,5 @@ post_date: 2018-08-13 12:02:52
 [/col]
 
 [/row]
+
 <!-- /wp:html -->
