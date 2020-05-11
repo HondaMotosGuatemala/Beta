@@ -95,4 +95,58 @@ post_date: 2018-09-10 12:36:00
 [/row]
 
 [/section]
+[section bg_overlay="rgb(12, 12, 12)" padding="25px"]
+
+[row style="collapse" width="full-width" h_align="center"]
+
+[col span__sm="9" align="center"]
+
+<h1 style="color:white; font-family:century gothic;">Disponibilidad de Financiamiento </h1>
+<h4 style="color:white"></p>
+<h4>
+
+[/col]
+
+[/row]
+
+[/section]
+[section label="Simple Center" bg_color="rgb(227, 227, 227)" padding="60px" height="300px"]
+
+[row style="collapse" col_style="divided" width="full-width" v_align="equal" h_align="center"]
+
+[col span="3" span__sm="12" divider="true" padding="10px 0px 25px 0px" depth_hover="2"]
+
+[featured_box img="22456" img_width="190" pos="center"]
+
+<h2 style="text-align: center;color:#003375;">CrediOpciones</h2>
+<p style="text-align: center; color:black;"><b>Echamos a andar tu crédito<br /></b></p>
+
+[/featured_box]
+
+[/col]
+[col span="3" span__sm="12" padding="0px 0px 25px 0px" depth_hover="2"]
+
+[featured_box img="22460" img_width="207" pos="center"]
+
+<h2 style="text-align: center; color: #cf0018;">InterConsumo</h2>
+<p style="text-align: center; color: black;">¡Estás Aprobado!<br /></b></p>
+
+[/featured_box]
+
+[/col]
+[col span="3" span__sm="12" padding="0px 0px 25px 0px" depth_hover="2"]
+
+[featured_box img="22462" img_width="207" pos="center"]
+
+<h2 style="text-align: center; color: #00693e;">Banco Promerica</h2>
+<p style="text-align: center; color: black;">Cuotas sin intereses<br /></b></p>
+
+[/featured_box]
+
+[/col]
+
+[/row]
+
+[/section]
+
 <!-- /wp:html -->
