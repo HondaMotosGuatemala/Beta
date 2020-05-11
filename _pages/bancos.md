@@ -119,7 +119,7 @@ post_date: 2018-09-10 12:36:00
 [featured_box img="22456" img_width="190" pos="center"]
 
 <h2 style="text-align: center;color:#003375;">CrediOpciones</h2>
-<p style="text-align: center; color:black;"><b>Echamos a andar tu crédito<br /></b></p>
+<p style="text-align: center; color:black;"><b>Echamos a andar tu crédito.<br /></b></p>
 
 [/featured_box]
 
@@ -129,7 +129,7 @@ post_date: 2018-09-10 12:36:00
 [featured_box img="22460" img_width="207" pos="center"]
 
 <h2 style="text-align: center; color: #cf0018;">InterConsumo</h2>
-<p style="text-align: center; color: black;">¡Estás Aprobado!<br /></b></p>
+<p style="text-align: center; color: black;"><b>¡Estás Aprobado!<br /></b></p>
 
 [/featured_box]
 
@@ -139,7 +139,7 @@ post_date: 2018-09-10 12:36:00
 [featured_box img="22462" img_width="207" pos="center"]
 
 <h2 style="text-align: center; color: #00693e;">Banco Promerica</h2>
-<p style="text-align: center; color: black;">Cuotas sin intereses<br /></b></p>
+<p style="text-align: center; color: black;"><b>Cuotas sin intereses.<br /></b></p>
 
 [/featured_box]
 
