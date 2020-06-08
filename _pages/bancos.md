@@ -102,7 +102,7 @@ post_date: 2018-09-10 12:36:00
 [col span__sm="9" align="center"]
 
 <h1 style="color:white; font-family:century gothic;">Disponibilidad de Financiamiento </h1>
-<h4 style="color:white"></p>
+<h4 style="color:white">
 <h4>
 
 [/col]
@@ -120,6 +120,16 @@ post_date: 2018-09-10 12:36:00
 
 <h2 style="text-align: center;color:#003375;">CrediOpciones</h2>
 <p style="text-align: center; color:black;"><b>Echamos a andar tu crédito.<br /></b></p>
+
+[/featured_box]
+
+[/col]
+[col span="3" span__sm="12" divider="true" padding="10px 0px 25px 0px" depth_hover="2"]
+
+[featured_box img="21573" img_width="265" pos="center"]
+
+<h2 style="text-align: center;color:#00aae4;">Banco Industrial</h2>
+<p style="text-align: center; color:black;"><b>¡Autorización inmediata!  <br /></b></p>
 
 [/featured_box]
 
